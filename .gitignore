@@ -206,3 +206,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Modflow outputs
+*.hds
+*.lst
+*.grb
+*.cbb
+
+#Shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qix
+*.sbn
+*.sbx
+
+# Csv files
+*.csv
+
+# Depletion run directory
+steady_state_mf6_DP/
+
+# Modflow executable
+mf6
