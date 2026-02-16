@@ -1,0 +1,6232 @@
+project_properties:
+  name: LPR_Redux
+  T: 1700.0
+  Max_T: 60000.0
+  Min_T: 600.0
+  S: 0.12
+  Max_S: 0.2
+  Min_S: 0.05
+  Max_FracInt: 1.0
+  Min_FracInt: 0.0
+  default_dd_days: 90.0
+  default_depletion_years: 5.0
+  default_pumping_days: 90.0
+well_418:
+  name: '418'
+  status: pending
+  loc:
+    x: 89.4839267
+    y: 44.4430733
+  Q: 109.5
+  pumping_days: 90
+  stream_apportionment0:
+    name: LPR:418
+    apportionment: 0.5086297773758871
+  stream_response:
+  - LPR:418
+  dd_response:
+  - LakeEmily
+well_466:
+  name: '466'
+  status: existing
+  loc:
+    x: 89.4939505
+    y: 44.4611747
+  Q: 315.9
+  pumping_days: 330
+  stream_apportionment1:
+    name: LPR:466
+    apportionment: 0.8222489998507545
+  stream_response:
+  - LPR:466
+  dd_response: []
+well_467:
+  name: '467'
+  status: existing
+  loc:
+    x: 89.4939729
+    y: 44.458573
+  Q: 296.9
+  pumping_days: 330
+  stream_apportionment2:
+    name: LPR:467
+    apportionment: 0.7689238156416542
+  stream_response:
+  - LPR:467
+  dd_response: []
+well_490:
+  name: '490'
+  status: existing
+  loc:
+    x: 89.3121079
+    y: 44.4666573
+  Q: 27.7
+  pumping_days: 330
+  stream_apportionment3:
+    name: LPR:490
+    apportionment: 0.07537513234880114
+  stream_response:
+  - LPR:490
+  dd_response: []
+well_509:
+  name: '509'
+  status: existing
+  loc:
+    x: 89.4713767
+    y: 44.5206017
+  Q: 0.1
+  pumping_days: 60
+  stream_apportionment4:
+    name: LPR:509
+    apportionment: 0.2900751294309643
+  stream_response:
+  - LPR:509
+  dd_response: []
+well_602:
+  name: '602'
+  status: existing
+  loc:
+    x: 89.3025784
+    y: 44.4542483
+  Q: 0.5
+  pumping_days: 365
+  stream_apportionment5:
+    name: LPR:602
+    apportionment: 0.05779950458258394
+  stream_response:
+  - LPR:602
+  dd_response: []
+well_603:
+  name: '603'
+  status: existing
+  loc:
+    x: 89.3035221
+    y: 44.4548397
+  Q: 0.2
+  pumping_days: 365
+  stream_apportionment6:
+    name: LPR:603
+    apportionment: 0.0602600847155112
+  stream_response:
+  - LPR:603
+  dd_response: []
+well_798:
+  name: '798'
+  status: existing
+  loc:
+    x: 89.4024383
+    y: 44.39655
+  Q: 135.6
+  pumping_days: 120
+  stream_apportionment7:
+    name: LPR:798
+    apportionment: 0.15010364370278895
+  stream_response:
+  - LPR:798
+  dd_response: []
+well_807:
+  name: '807'
+  status: existing
+  loc:
+    x: 89.4828133
+    y: 44.423235
+  Q: 82.6
+  pumping_days: 90
+  stream_apportionment8:
+    name: LPR:807
+    apportionment: 0.31086549132831326
+  stream_response:
+  - LPR:807
+  dd_response: []
+well_850:
+  name: '850'
+  status: existing
+  loc:
+    x: 89.4916477
+    y: 44.5399703
+  Q: 107.2
+  pumping_days: 120
+  stream_apportionment9:
+    name: LPR:850
+    apportionment: 0.08544106976219297
+  stream_response:
+  - LPR:850
+  dd_response: []
+well_862:
+  name: '862'
+  status: existing
+  loc:
+    x: 89.4714099
+    y: 44.5206193
+  Q: 4.6
+  pumping_days: 365
+  stream_apportionment10:
+    name: LPR:862
+    apportionment: 0.28989901175512073
+  stream_response:
+  - LPR:862
+  dd_response: []
+well_1013:
+  name: '1013'
+  status: existing
+  loc:
+    x: 89.3453883
+    y: 44.4873217
+  Q: 125.1
+  pumping_days: 90
+  stream_apportionment11:
+    name: LPR:1013
+    apportionment: 0.03039497517258916
+  stream_response:
+  - LPR:1013
+  dd_response: []
+well_1302:
+  name: '1302'
+  status: existing
+  loc:
+    x: 89.4539046
+    y: 44.5813718
+  Q: 88.2
+  pumping_days: 90
+  stream_apportionment12:
+    name: LPR:1302
+    apportionment: 0.0923462754825312
+  stream_response:
+  - LPR:1302
+  dd_response: []
+well_1323:
+  name: '1323'
+  status: existing
+  loc:
+    x: 89.4508899
+    y: 44.5219167
+  Q: 76.2
+  pumping_days: 30
+  stream_apportionment13:
+    name: LPR:1323
+    apportionment: 0.31052422989299905
+  stream_response:
+  - LPR:1323
+  dd_response: []
+well_1486:
+  name: '1486'
+  status: existing
+  loc:
+    x: 89.4608233
+    y: 44.5039967
+  Q: 222.8
+  pumping_days: 90
+  stream_apportionment14:
+    name: LPR:1486
+    apportionment: 0.49750843256263944
+  stream_response:
+  - LPR:1486
+  dd_response: []
+well_1584:
+  name: '1584'
+  status: existing
+  loc:
+    x: 89.4647217
+    y: 44.48
+  Q: 150.5
+  pumping_days: 90
+  stream_apportionment15:
+    name: LPR:1584
+    apportionment: 0.7717347134308602
+  stream_response:
+  - LPR:1584
+  dd_response: []
+well_1589:
+  name: '1589'
+  status: existing
+  loc:
+    x: 89.4091941
+    y: 44.4051847
+  Q: 264.1
+  pumping_days: 120
+  stream_apportionment16:
+    name: LPR:1589
+    apportionment: 0.15804709469691988
+  stream_response:
+  - LPR:1589
+  dd_response: []
+well_1643:
+  name: '1643'
+  status: existing
+  loc:
+    x: 89.5335333
+    y: 44.4174
+  Q: 114.5
+  pumping_days: 90
+  stream_apportionment17:
+    name: LPR:1643
+    apportionment: 0.16254490993016985
+  stream_response:
+  - LPR:1643
+  dd_response: []
+well_1683:
+  name: '1683'
+  status: existing
+  loc:
+    x: 89.4090453
+    y: 44.3906543
+  Q: 260.6
+  pumping_days: 150
+  stream_apportionment18:
+    name: LPR:1683
+    apportionment: 0.1544936977568897
+  stream_response:
+  - LPR:1683
+  dd_response: []
+well_1860:
+  name: '1860'
+  status: existing
+  loc:
+    x: 89.4486378
+    y: 44.5302783
+  Q: 195.7
+  pumping_days: 120
+  stream_apportionment19:
+    name: LPR:1860
+    apportionment: 0.19241263468065123
+  stream_response:
+  - LPR:1860
+  dd_response: []
+well_2544:
+  name: '2544'
+  status: existing
+  loc:
+    x: 89.5063048
+    y: 44.5065887
+  Q: 8.2
+  pumping_days: 180
+  stream_apportionment20:
+    name: LPR:2544
+    apportionment: 0.43503901950023305
+  stream_response:
+  - LPR:2544
+  dd_response: []
+well_2750:
+  name: '2750'
+  status: existing
+  loc:
+    x: 89.4342333
+    y: 44.40286
+  Q: 120.7
+  pumping_days: 120
+  stream_apportionment21:
+    name: LPR:2750
+    apportionment: 0.10673235774223354
+  stream_response:
+  - LPR:2750
+  dd_response: []
+well_2886:
+  name: '2886'
+  status: existing
+  loc:
+    x: 89.5194619
+    y: 44.4399357
+  Q: 710.5
+  pumping_days: 365
+  stream_apportionment22:
+    name: LPR:2886
+    apportionment: 0.268186851243894
+  stream_response:
+  - LPR:2886
+  dd_response: []
+well_3473:
+  name: '3473'
+  status: existing
+  loc:
+    x: 89.4487003
+    y: 44.5484194
+  Q: 83.3
+  pumping_days: 120
+  stream_apportionment23:
+    name: LPR:3473
+    apportionment: 0.09841253851613434
+  stream_response:
+  - LPR:3473
+  dd_response: []
+well_3949:
+  name: '3949'
+  status: existing
+  loc:
+    x: 89.487695
+    y: 44.50865
+  Q: 43.0
+  pumping_days: 90
+  stream_apportionment24:
+    name: LPR:3949
+    apportionment: 0.5112533614539748
+  stream_response:
+  - LPR:3949
+  dd_response: []
+well_4171:
+  name: '4171'
+  status: existing
+  loc:
+    x: 89.4978
+    y: 44.52907
+  Q: 7.5
+  pumping_days: 180
+  stream_apportionment25:
+    name: LPR:4171
+    apportionment: 0.23763552383150552
+  stream_response:
+  - LPR:4171
+  dd_response: []
+well_23610:
+  name: '23610'
+  status: existing
+  loc:
+    x: 89.4409533
+    y: 44.4574733
+  Q: 201.7
+  pumping_days: 120
+  stream_apportionment26:
+    name: LPR:23610
+    apportionment: 0.4683233726218617
+  stream_response:
+  - LPR:23610
+  dd_response: []
+well_23611:
+  name: '23611'
+  status: existing
+  loc:
+    x: 89.513486
+    y: 44.493764
+  Q: 378.8
+  pumping_days: 90
+  stream_apportionment27:
+    name: LPR:23611
+    apportionment: 0.5197148128205725
+  stream_response:
+  - LPR:23611
+  dd_response: []
+well_23618:
+  name: '23618'
+  status: existing
+  loc:
+    x: 89.4718736
+    y: 44.493311
+  Q: 253.9
+  pumping_days: 90
+  stream_apportionment28:
+    name: LPR:23618
+    apportionment: 0.4718403314534055
+  stream_response:
+  - LPR:23618
+  dd_response: []
+well_23620:
+  name: '23620'
+  status: existing
+  loc:
+    x: 89.352925
+    y: 44.481885
+  Q: 349.7
+  pumping_days: 90
+  stream_apportionment29:
+    name: LPR:23620
+    apportionment: 0.07268464653634013
+  stream_response:
+  - LPR:23620
+  dd_response: []
+well_23627:
+  name: '23627'
+  status: existing
+  loc:
+    x: 89.48438
+    y: 44.4757317
+  Q: 276.5
+  pumping_days: 120
+  stream_apportionment30:
+    name: LPR:23627
+    apportionment: 0.9406088466789186
+  stream_response:
+  - LPR:23627
+  dd_response: []
+well_23629:
+  name: '23629'
+  status: existing
+  loc:
+    x: 89.4903
+    y: 44.4182
+  Q: 146.2
+  pumping_days: 120
+  stream_apportionment31:
+    name: LPR:23629
+    apportionment: 0.22249205379706793
+  stream_response:
+  - LPR:23629
+  dd_response: []
+well_23630:
+  name: '23630'
+  status: existing
+  loc:
+    x: 89.50305
+    y: 44.41435
+  Q: 255.5
+  pumping_days: 120
+  stream_apportionment32:
+    name: LPR:23630
+    apportionment: 0.20855641577902023
+  stream_response:
+  - LPR:23630
+  dd_response: []
+well_23631:
+  name: '23631'
+  status: existing
+  loc:
+    x: 89.483435
+    y: 44.42146
+  Q: 101.0
+  pumping_days: 90
+  stream_apportionment33:
+    name: LPR:23631
+    apportionment: 0.26043715471049006
+  stream_response:
+  - LPR:23631
+  dd_response: []
+well_23635:
+  name: '23635'
+  status: existing
+  loc:
+    x: 89.44373
+    y: 44.57158
+  Q: 282.8
+  pumping_days: 120
+  stream_apportionment34:
+    name: LPR:23635
+    apportionment: 0.09757667147001615
+  stream_response:
+  - LPR:23635
+  dd_response: []
+well_23637:
+  name: '23637'
+  status: existing
+  loc:
+    x: 89.451285
+    y: 44.547822
+  Q: 291.4
+  pumping_days: 120
+  stream_apportionment35:
+    name: LPR:23637
+    apportionment: 0.09335780311892701
+  stream_response:
+  - LPR:23637
+  dd_response: []
+well_23638:
+  name: '23638'
+  status: existing
+  loc:
+    x: 89.452977
+    y: 44.473997
+  Q: 409.8
+  pumping_days: 120
+  stream_apportionment36:
+    name: LPR:23638
+    apportionment: 0.579102974674832
+  stream_response:
+  - LPR:23638
+  dd_response: []
+well_23639:
+  name: '23639'
+  status: existing
+  loc:
+    x: 89.523704
+    y: 44.442296
+  Q: 213.2
+  pumping_days: 120
+  stream_apportionment37:
+    name: LPR:23639
+    apportionment: 0.2889476890152496
+  stream_response:
+  - LPR:23639
+  dd_response: []
+well_23645:
+  name: '23645'
+  status: existing
+  loc:
+    x: 89.51537
+    y: 44.464845
+  Q: 158.8
+  pumping_days: 90
+  stream_apportionment38:
+    name: LPR:23645
+    apportionment: 0.7177857041152808
+  stream_response:
+  - LPR:23645
+  dd_response: []
+well_23646:
+  name: '23646'
+  status: existing
+  loc:
+    x: 89.518877
+    y: 44.460812
+  Q: 319.4
+  pumping_days: 90
+  stream_apportionment39:
+    name: LPR:23646
+    apportionment: 0.5641522066744296
+  stream_response:
+  - LPR:23646
+  dd_response: []
+well_23648:
+  name: '23648'
+  status: existing
+  loc:
+    x: 89.4437439
+    y: 44.5697308
+  Q: 137.8
+  pumping_days: 120
+  stream_apportionment40:
+    name: LPR:23648
+    apportionment: 0.09672619163747756
+  stream_response:
+  - LPR:23648
+  dd_response: []
+well_23653:
+  name: '23653'
+  status: existing
+  loc:
+    x: 89.4984333
+    y: 44.4651167
+  Q: 263.6
+  pumping_days: 150
+  stream_apportionment41:
+    name: LPR:23653
+    apportionment: 0.9134250482917413
+  stream_response:
+  - LPR:23653
+  dd_response: []
+well_23695:
+  name: '23695'
+  status: existing
+  loc:
+    x: 89.48518
+    y: 44.40527
+  Q: 141.4
+  pumping_days: 90
+  stream_apportionment42:
+    name: LPR:23695
+    apportionment: 0.20715064278818093
+  stream_response:
+  - LPR:23695
+  dd_response: []
+well_23697:
+  name: '23697'
+  status: existing
+  loc:
+    x: 89.312333
+    y: 44.463241
+  Q: 152.0
+  pumping_days: 120
+  stream_apportionment43:
+    name: LPR:23697
+    apportionment: 0.09291916702274972
+  stream_response:
+  - LPR:23697
+  dd_response: []
+well_23698:
+  name: '23698'
+  status: existing
+  loc:
+    x: 89.323426
+    y: 44.467347
+  Q: 369.4
+  pumping_days: 90
+  stream_apportionment44:
+    name: LPR:23698
+    apportionment: 0.1023996955701555
+  stream_response:
+  - LPR:23698
+  dd_response: []
+well_23699:
+  name: '23699'
+  status: existing
+  loc:
+    x: 89.452978
+    y: 44.568291
+  Q: 220.8
+  pumping_days: 90
+  stream_apportionment45:
+    name: LPR:23699
+    apportionment: 0.08567879194742534
+  stream_response:
+  - LPR:23699
+  dd_response: []
+well_23700:
+  name: '23700'
+  status: existing
+  loc:
+    x: 89.43619
+    y: 44.56397
+  Q: 121.7
+  pumping_days: 120
+  stream_apportionment46:
+    name: LPR:23700
+    apportionment: 0.10719327421057422
+  stream_response:
+  - LPR:23700
+  dd_response: []
+well_23709:
+  name: '23709'
+  status: existing
+  loc:
+    x: 89.4511469
+    y: 44.5286153
+  Q: 259.0
+  pumping_days: 120
+  stream_apportionment47:
+    name: LPR:23709
+    apportionment: 0.19922343050237126
+  stream_response:
+  - LPR:23709
+  dd_response: []
+well_23710:
+  name: '23710'
+  status: existing
+  loc:
+    x: 89.446687
+    y: 44.394648
+  Q: 105.6
+  pumping_days: 120
+  stream_apportionment48:
+    name: LPR:23710
+    apportionment: 0.08687500708940199
+  stream_response:
+  - LPR:23710
+  dd_response: []
+well_23715:
+  name: '23715'
+  status: existing
+  loc:
+    x: 89.4512001
+    y: 44.5358433
+  Q: 411.3
+  pumping_days: 90
+  stream_apportionment49:
+    name: LPR:23715
+    apportionment: 0.1666201516272614
+  stream_response:
+  - LPR:23715
+  dd_response: []
+well_23716:
+  name: '23716'
+  status: existing
+  loc:
+    x: 89.4537432
+    y: 44.5377989
+  Q: 256.1
+  pumping_days: 90
+  stream_apportionment50:
+    name: LPR:23716
+    apportionment: 0.15214940382175327
+  stream_response:
+  - LPR:23716
+  dd_response: []
+well_23720:
+  name: '23720'
+  status: existing
+  loc:
+    x: 89.5388666
+    y: 44.4495667
+  Q: 160.7
+  pumping_days: 120
+  stream_apportionment51:
+    name: LPR:23720
+    apportionment: 0.2844607853208551
+  stream_response:
+  - LPR:23720
+  dd_response: []
+well_23721:
+  name: '23721'
+  status: existing
+  loc:
+    x: 89.531509
+    y: 44.442969
+  Q: 236.8
+  pumping_days: 120
+  stream_apportionment52:
+    name: LPR:23721
+    apportionment: 0.26965191746186223
+  stream_response:
+  - LPR:23721
+  dd_response: []
+well_23722:
+  name: '23722'
+  status: existing
+  loc:
+    x: 89.452046
+    y: 44.452086
+  Q: 163.5
+  pumping_days: 90
+  stream_apportionment53:
+    name: LPR:23722
+    apportionment: 0.4305812619870596
+  stream_response:
+  - LPR:23722
+  dd_response: []
+well_23723:
+  name: '23723'
+  status: existing
+  loc:
+    x: 89.544048
+    y: 44.431968
+  Q: 236.5
+  pumping_days: 150
+  stream_apportionment54:
+    name: LPR:23723
+    apportionment: 0.1486083094345086
+  stream_response:
+  - LPR:23723
+  dd_response: []
+well_23726:
+  name: '23726'
+  status: existing
+  loc:
+    x: 89.502886
+    y: 44.403409
+  Q: 195.7
+  pumping_days: 90
+  stream_apportionment55:
+    name: LPR:23726
+    apportionment: 0.16591085455865787
+  stream_response:
+  - LPR:23726
+  dd_response: []
+well_23727:
+  name: '23727'
+  status: existing
+  loc:
+    x: 89.498025
+    y: 44.407044
+  Q: 86.0
+  pumping_days: 90
+  stream_apportionment56:
+    name: LPR:23727
+    apportionment: 0.18907849122300793
+  stream_response:
+  - LPR:23727
+  dd_response: []
+well_23728:
+  name: '23728'
+  status: existing
+  loc:
+    x: 89.543655
+    y: 44.421027
+  Q: 250.1
+  pumping_days: 120
+  stream_apportionment57:
+    name: LPR:23728
+    apportionment: 0.14686840234494428
+  stream_response:
+  - LPR:23728
+  dd_response: []
+well_23729:
+  name: '23729'
+  status: existing
+  loc:
+    x: 89.5336167
+    y: 44.42115
+  Q: 244.6
+  pumping_days: 120
+  stream_apportionment58:
+    name: LPR:23729
+    apportionment: 0.18629137361604342
+  stream_response:
+  - LPR:23729
+  dd_response: []
+well_23751:
+  name: '23751'
+  status: existing
+  loc:
+    x: 89.5130881
+    y: 44.4069236
+  Q: 214.1
+  pumping_days: 90
+  stream_apportionment59:
+    name: LPR:23751
+    apportionment: 0.15704828224539708
+  stream_response:
+  - LPR:23751
+  dd_response: []
+well_23752:
+  name: '23752'
+  status: existing
+  loc:
+    x: 89.4571
+    y: 44.4685
+  Q: 296.0
+  pumping_days: 90
+  stream_apportionment60:
+    name: LPR:23752
+    apportionment: 0.5874027758502056
+  stream_response:
+  - LPR:23752
+  dd_response: []
+well_23753:
+  name: '23753'
+  status: existing
+  loc:
+    x: 89.4416
+    y: 44.4626
+  Q: 308.2
+  pumping_days: 90
+  stream_apportionment61:
+    name: LPR:23753
+    apportionment: 0.4328454083246712
+  stream_response:
+  - LPR:23753
+  dd_response: []
+well_23754:
+  name: '23754'
+  status: existing
+  loc:
+    x: 89.4386811
+    y: 44.576777
+  Q: 325.0
+  pumping_days: 90
+  stream_apportionment62:
+    name: LPR:23754
+    apportionment: 0.10245546096015722
+  stream_response:
+  - LPR:23754
+  dd_response: []
+well_23755:
+  name: '23755'
+  status: existing
+  loc:
+    x: 89.484141
+    y: 44.461779
+  Q: 794.6
+  pumping_days: 90
+  stream_apportionment63:
+    name: LPR:23755
+    apportionment: 0.8388225704937207
+  stream_response:
+  - LPR:23755
+  dd_response: []
+well_23756:
+  name: '23756'
+  status: existing
+  loc:
+    x: 89.5104666
+    y: 44.4015464
+  Q: 324.2
+  pumping_days: 90
+  stream_apportionment64:
+    name: LPR:23756
+    apportionment: 0.14119925269483036
+  stream_response:
+  - LPR:23756
+  dd_response: []
+well_23757:
+  name: '23757'
+  status: existing
+  loc:
+    x: 89.55422
+    y: 44.42446
+  Q: 101.5
+  pumping_days: 120
+  stream_apportionment65:
+    name: LPR:23757
+    apportionment: 0.09650952476388294
+  stream_response:
+  - LPR:23757
+  dd_response: []
+well_23758:
+  name: '23758'
+  status: existing
+  loc:
+    x: 89.5489
+    y: 44.4282
+  Q: 148.4
+  pumping_days: 120
+  stream_apportionment66:
+    name: LPR:23758
+    apportionment: 0.12084808914387182
+  stream_response:
+  - LPR:23758
+  dd_response: []
+well_23770:
+  name: '23770'
+  status: existing
+  loc:
+    x: 89.503372
+    y: 44.479507
+  Q: 239.9
+  pumping_days: 120
+  stream_apportionment67:
+    name: LPR:23770
+    apportionment: 0.811720148257776
+  stream_response:
+  - LPR:23770
+  dd_response: []
+well_23776:
+  name: '23776'
+  status: existing
+  loc:
+    x: 89.4836516
+    y: 44.4142833
+  Q: 78.4
+  pumping_days: 90
+  stream_apportionment68:
+    name: LPR:23776
+    apportionment: 0.19920781782623215
+  stream_response:
+  - LPR:23776
+  dd_response: []
+well_23778:
+  name: '23778'
+  status: existing
+  loc:
+    x: 89.5131489
+    y: 44.4141763
+  Q: 163.6
+  pumping_days: 120
+  stream_apportionment69:
+    name: LPR:23778
+    apportionment: 0.1890955748789921
+  stream_response:
+  - LPR:23778
+  dd_response: []
+well_23781:
+  name: '23781'
+  status: existing
+  loc:
+    x: 89.4834016
+    y: 44.50182
+  Q: 450.6
+  pumping_days: 90
+  stream_apportionment70:
+    name: LPR:23781
+    apportionment: 0.4857623397653471
+  stream_response:
+  - LPR:23781
+  dd_response: []
+well_23790:
+  name: '23790'
+  status: existing
+  loc:
+    x: 89.5592
+    y: 44.43905
+  Q: 275.8
+  pumping_days: 120
+  stream_apportionment71:
+    name: LPR:23790
+    apportionment: 0.08739088448700481
+  stream_response:
+  - LPR:23790
+  dd_response: []
+well_23791:
+  name: '23791'
+  status: existing
+  loc:
+    x: 89.5642667
+    y: 44.4344833
+  Q: 204.9
+  pumping_days: 120
+  stream_apportionment72:
+    name: LPR:23791
+    apportionment: 0.09873737911558104
+  stream_response:
+  - LPR:23791
+  dd_response: []
+well_23794:
+  name: '23794'
+  status: existing
+  loc:
+    x: 89.503475
+    y: 44.486715
+  Q: 217.3
+  pumping_days: 150
+  stream_apportionment73:
+    name: LPR:23794
+    apportionment: 0.6600247129789742
+  stream_response:
+  - LPR:23794
+  dd_response: []
+well_23795:
+  name: '23795'
+  status: existing
+  loc:
+    x: 89.493067
+    y: 44.406151
+  Q: 110.6
+  pumping_days: 90
+  stream_apportionment74:
+    name: LPR:23795
+    apportionment: 0.19592985457455245
+  stream_response:
+  - LPR:23795
+  dd_response: []
+well_23798:
+  name: '23798'
+  status: existing
+  loc:
+    x: 89.4667383
+    y: 44.4330083
+  Q: 169.3
+  pumping_days: 90
+  stream_apportionment75:
+    name: LPR:23798
+    apportionment: 0.3728686545456626
+  stream_response:
+  - LPR:23798
+  dd_response: []
+well_23800:
+  name: '23800'
+  status: existing
+  loc:
+    x: 89.4495907
+    y: 44.493991
+  Q: 364.0
+  pumping_days: 90
+  stream_apportionment76:
+    name: LPR:23800
+    apportionment: 0.5057203566091847
+  stream_response:
+  - LPR:23800
+  dd_response: []
+well_23807:
+  name: '23807'
+  status: existing
+  loc:
+    x: 89.4543518
+    y: 44.4075933
+  Q: 128.5
+  pumping_days: 90
+  stream_apportionment77:
+    name: LPR:23807
+    apportionment: 0.12006571172604409
+  stream_response:
+  - LPR:23807
+  dd_response: []
+well_23816:
+  name: '23816'
+  status: existing
+  loc:
+    x: 89.50335
+    y: 44.4612667
+  Q: 149.4
+  pumping_days: 150
+  stream_apportionment78:
+    name: LPR:23816
+    apportionment: 0.819617405550309
+  stream_response:
+  - LPR:23816
+  dd_response: []
+well_23818:
+  name: '23818'
+  status: existing
+  loc:
+    x: 89.4418
+    y: 44.3906
+  Q: 282.6
+  pumping_days: 90
+  stream_apportionment79:
+    name: LPR:23818
+    apportionment: 0.07133597680151126
+  stream_response:
+  - LPR:23818
+  dd_response: []
+well_23820:
+  name: '23820'
+  status: existing
+  loc:
+    x: 89.5259233
+    y: 44.4120884
+  Q: 86.9
+  pumping_days: 120
+  stream_apportionment80:
+    name: LPR:23820
+    apportionment: 0.155958368016927
+  stream_response:
+  - LPR:23820
+  dd_response: []
+well_23823:
+  name: '23823'
+  status: existing
+  loc:
+    x: 89.5539068
+    y: 44.431755
+  Q: 25.8
+  pumping_days: 120
+  stream_apportionment81:
+    name: LPR:23823
+    apportionment: 0.08843238516654439
+  stream_response:
+  - LPR:23823
+  dd_response: []
+well_23836:
+  name: '23836'
+  status: existing
+  loc:
+    x: 89.4907397
+    y: 44.4562691
+  Q: 568.6
+  pumping_days: 120
+  stream_apportionment82:
+    name: LPR:23836
+    apportionment: 0.8284783883752904
+  stream_response:
+  - LPR:23836
+  dd_response: []
+well_23837:
+  name: '23837'
+  status: existing
+  loc:
+    x: 89.4821333
+    y: 44.4500167
+  Q: 241.7
+  pumping_days: 120
+  stream_apportionment83:
+    name: LPR:23837
+    apportionment: 0.610957585444408
+  stream_response:
+  - LPR:23837
+  dd_response: []
+well_23846:
+  name: '23846'
+  status: existing
+  loc:
+    x: 89.4611817
+    y: 44.52898
+  Q: 291.7
+  pumping_days: 90
+  stream_apportionment84:
+    name: LPR:23846
+    apportionment: 0.18896534745573043
+  stream_response:
+  - LPR:23846
+  dd_response: []
+well_23847:
+  name: '23847'
+  status: existing
+  loc:
+    x: 89.4723049
+    y: 44.5079917
+  Q: 187.0
+  pumping_days: 120
+  stream_apportionment85:
+    name: LPR:23847
+    apportionment: 0.4143187332464422
+  stream_response:
+  - LPR:23847
+  dd_response: []
+well_23848:
+  name: '23848'
+  status: existing
+  loc:
+    x: 89.4619783
+    y: 44.5109967
+  Q: 289.7
+  pumping_days: 90
+  stream_apportionment86:
+    name: LPR:23848
+    apportionment: 0.3776145647064231
+  stream_response:
+  - LPR:23848
+  dd_response: []
+well_23851:
+  name: '23851'
+  status: existing
+  loc:
+    x: 89.4958761
+    y: 44.4487585
+  Q: 248.4
+  pumping_days: 150
+  stream_apportionment87:
+    name: LPR:23851
+    apportionment: 0.4071230094357252
+  stream_response:
+  - LPR:23851
+  dd_response: []
+well_23864:
+  name: '23864'
+  status: existing
+  loc:
+    x: 89.446372
+    y: 44.425908
+  Q: 1133.7
+  pumping_days: 90
+  stream_apportionment88:
+    name: LPR:23864
+    apportionment: 0.19013874928436547
+  stream_response:
+  - LPR:23864
+  dd_response: []
+well_23865:
+  name: '23865'
+  status: existing
+  loc:
+    x: 89.513731
+    y: 44.421295
+  Q: 267.0
+  pumping_days: 150
+  stream_apportionment89:
+    name: LPR:23865
+    apportionment: 0.22423825506054482
+  stream_response:
+  - LPR:23865
+  dd_response: []
+well_23866:
+  name: '23866'
+  status: existing
+  loc:
+    x: 89.446857
+    y: 44.412715
+  Q: 177.7
+  pumping_days: 120
+  stream_apportionment90:
+    name: LPR:23866
+    apportionment: 0.13834072818053458
+  stream_response:
+  - LPR:23866
+  dd_response: []
+well_23867:
+  name: '23867'
+  status: existing
+  loc:
+    x: 89.4487697
+    y: 44.5628156
+  Q: 330.2
+  pumping_days: 90
+  stream_apportionment91:
+    name: LPR:23867
+    apportionment: 0.08455432386401546
+  stream_response:
+  - LPR:23867
+  dd_response: []
+well_23868:
+  name: '23868'
+  status: existing
+  loc:
+    x: 89.450743
+    y: 44.557575
+  Q: 416.5
+  pumping_days: 90
+  stream_apportionment92:
+    name: LPR:23868
+    apportionment: 0.0696842271709435
+  stream_response:
+  - LPR:23868
+  dd_response: []
+well_23869:
+  name: '23869'
+  status: existing
+  loc:
+    x: 89.440618
+    y: 44.559608
+  Q: 168.1
+  pumping_days: 90
+  stream_apportionment93:
+    name: LPR:23869
+    apportionment: 0.10003045876406846
+  stream_response:
+  - LPR:23869
+  dd_response: []
+well_23870:
+  name: '23870'
+  status: existing
+  loc:
+    x: 89.440357
+    y: 44.55673
+  Q: 205.0
+  pumping_days: 90
+  stream_apportionment94:
+    name: LPR:23870
+    apportionment: 0.10182886586468223
+  stream_response:
+  - LPR:23870
+  dd_response: []
+well_23876:
+  name: '23876'
+  status: existing
+  loc:
+    x: 89.492086
+    y: 44.483603
+  Q: 197.6
+  pumping_days: 150
+  stream_apportionment95:
+    name: LPR:23876
+    apportionment: 0.825104553746541
+  stream_response:
+  - LPR:23876
+  dd_response: []
+well_23881:
+  name: '23881'
+  status: existing
+  loc:
+    x: 89.5092767
+    y: 44.5011067
+  Q: 131.0
+  pumping_days: 120
+  stream_apportionment96:
+    name: LPR:23881
+    apportionment: 0.47938902362686053
+  stream_response:
+  - LPR:23881
+  dd_response: []
+well_23883:
+  name: '23883'
+  status: existing
+  loc:
+    x: 89.395337
+    y: 44.553729
+  Q: 589.5
+  pumping_days: 120
+  stream_apportionment97:
+    name: LPR:23883
+    apportionment: 0.11432802770398136
+  stream_response:
+  - LPR:23883
+  dd_response: []
+well_23886:
+  name: '23886'
+  status: existing
+  loc:
+    x: 89.4617367
+    y: 44.407875
+  Q: 215.2
+  pumping_days: 120
+  stream_apportionment98:
+    name: LPR:23886
+    apportionment: 0.11454818779937871
+  stream_response:
+  - LPR:23886
+  dd_response: []
+well_23888:
+  name: '23888'
+  status: existing
+  loc:
+    x: 89.4619217
+    y: 44.4530267
+  Q: 237.2
+  pumping_days: 90
+  stream_apportionment99:
+    name: LPR:23888
+    apportionment: 0.5584187119553059
+  stream_response:
+  - LPR:23888
+  dd_response: []
+well_23889:
+  name: '23889'
+  status: existing
+  loc:
+    x: 89.4618232
+    y: 44.4515233
+  Q: 459.8
+  pumping_days: 90
+  stream_apportionment100:
+    name: LPR:23889
+    apportionment: 0.5430119756954671
+  stream_response:
+  - LPR:23889
+  dd_response: []
+well_23890:
+  name: '23890'
+  status: existing
+  loc:
+    x: 89.525886
+    y: 44.406606
+  Q: 187.6
+  pumping_days: 90
+  stream_apportionment101:
+    name: LPR:23890
+    apportionment: 0.13192222162885012
+  stream_response:
+  - LPR:23890
+  dd_response: []
+well_23895:
+  name: '23895'
+  status: existing
+  loc:
+    x: 89.528504
+    y: 44.424711
+  Q: 216.9
+  pumping_days: 120
+  stream_apportionment102:
+    name: LPR:23895
+    apportionment: 0.19311723469630013
+  stream_response:
+  - LPR:23895
+  dd_response: []
+well_23898:
+  name: '23898'
+  status: existing
+  loc:
+    x: 89.488904
+    y: 44.542024
+  Q: 29.6
+  pumping_days: 90
+  stream_apportionment103:
+    name: LPR:23898
+    apportionment: 0.07723000730017042
+  stream_response:
+  - LPR:23898
+  dd_response: []
+well_23908:
+  name: '23908'
+  status: existing
+  loc:
+    x: 89.4621383
+    y: 44.5150567
+  Q: 365.0
+  pumping_days: 120
+  stream_apportionment104:
+    name: LPR:23908
+    apportionment: 0.3294166293057047
+  stream_response:
+  - LPR:23908
+  dd_response: []
+well_23909:
+  name: '23909'
+  status: existing
+  loc:
+    x: 89.4619417
+    y: 44.4417883
+  Q: 115.6
+  pumping_days: 120
+  stream_apportionment105:
+    name: LPR:23909
+    apportionment: 0.44644353223706357
+  stream_response:
+  - LPR:23909
+  dd_response: []
+well_23910:
+  name: '23910'
+  status: existing
+  loc:
+    x: 89.57041
+    y: 44.43999
+  Q: 345.0
+  pumping_days: 120
+  stream_apportionment106:
+    name: LPR:23910
+    apportionment: 0.08623090887875966
+  stream_response:
+  - LPR:23910
+  dd_response: []
+well_23913:
+  name: '23913'
+  status: existing
+  loc:
+    x: 89.3101783
+    y: 44.4744083
+  Q: 247.2
+  pumping_days: 90
+  stream_apportionment107:
+    name: LPR:23913
+    apportionment: 0.06045214284170639
+  stream_response:
+  - LPR:23913
+  dd_response: []
+well_23915:
+  name: '23915'
+  status: existing
+  loc:
+    x: 89.390554
+    y: 44.557204
+  Q: 152.5
+  pumping_days: 60
+  stream_apportionment108:
+    name: LPR:23915
+    apportionment: 0.09621022056431003
+  stream_response:
+  - LPR:23915
+  dd_response: []
+well_23919:
+  name: '23919'
+  status: existing
+  loc:
+    x: 89.5207717
+    y: 44.4849033
+  Q: 261.3
+  pumping_days: 60
+  stream_apportionment109:
+    name: LPR:23919
+    apportionment: 0.6748674799295845
+  stream_response:
+  - LPR:23919
+  dd_response: []
+well_23926:
+  name: '23926'
+  status: existing
+  loc:
+    x: 89.4411
+    y: 44.54615
+  Q: 243.0
+  pumping_days: 120
+  stream_apportionment110:
+    name: LPR:23926
+    apportionment: 0.12789512611634313
+  stream_response:
+  - LPR:23926
+  dd_response: []
+well_23928:
+  name: '23928'
+  status: existing
+  loc:
+    x: 89.440871
+    y: 44.443704
+  Q: 293.8
+  pumping_days: 120
+  stream_apportionment111:
+    name: LPR:23928
+    apportionment: 0.3773183992563153
+  stream_response:
+  - LPR:23928
+  dd_response: []
+well_23929:
+  name: '23929'
+  status: existing
+  loc:
+    x: 89.497971
+    y: 44.483385
+  Q: 203.7
+  pumping_days: 60
+  stream_apportionment112:
+    name: LPR:23929
+    apportionment: 0.7466857020511527
+  stream_response:
+  - LPR:23929
+  dd_response: []
+well_23930:
+  name: '23930'
+  status: existing
+  loc:
+    x: 89.4743833
+    y: 44.4386683
+  Q: 91.6
+  pumping_days: 90
+  stream_apportionment113:
+    name: LPR:23930
+    apportionment: 0.4483379660119628
+  stream_response:
+  - LPR:23930
+  dd_response: []
+well_23934:
+  name: '23934'
+  status: existing
+  loc:
+    x: 89.4777782
+    y: 44.4861117
+  Q: 370.6
+  pumping_days: 120
+  stream_apportionment114:
+    name: LPR:23934
+    apportionment: 0.8984316109439998
+  stream_response:
+  - LPR:23934
+  dd_response: []
+well_23936:
+  name: '23936'
+  status: existing
+  loc:
+    x: 89.4723883
+    y: 44.500775
+  Q: 238.2
+  pumping_days: 120
+  stream_apportionment115:
+    name: LPR:23936
+    apportionment: 0.5096480170479567
+  stream_response:
+  - LPR:23936
+  dd_response: []
+well_23937:
+  name: '23937'
+  status: existing
+  loc:
+    x: 89.486585
+    y: 44.43928
+  Q: 183.4
+  pumping_days: 120
+  stream_apportionment116:
+    name: LPR:23937
+    apportionment: 0.38918386314640474
+  stream_response:
+  - LPR:23937
+  dd_response: []
+well_23939:
+  name: '23939'
+  status: existing
+  loc:
+    x: 89.4519934
+    y: 44.4849817
+  Q: 329.9
+  pumping_days: 150
+  stream_apportionment117:
+    name: LPR:23939
+    apportionment: 0.6647612900856319
+  stream_response:
+  - LPR:23939
+  dd_response: []
+well_23942:
+  name: '23942'
+  status: existing
+  loc:
+    x: 89.569192
+    y: 44.450185
+  Q: 132.9
+  pumping_days: 60
+  stream_apportionment118:
+    name: LPR:23942
+    apportionment: 0.12264151565093519
+  stream_response:
+  - LPR:23942
+  dd_response: []
+well_23944:
+  name: '23944'
+  status: existing
+  loc:
+    x: 89.3831776
+    y: 44.4610719
+  Q: 84.4
+  pumping_days: 90
+  stream_apportionment119:
+    name: LPR:23944
+    apportionment: 0.20012786341311245
+  stream_response:
+  - LPR:23944
+  dd_response: []
+well_23948:
+  name: '23948'
+  status: existing
+  loc:
+    x: 89.459102
+    y: 44.430905
+  Q: 254.6
+  pumping_days: 150
+  stream_apportionment120:
+    name: LPR:23948
+    apportionment: 0.3449521050397785
+  stream_response:
+  - LPR:23948
+  dd_response: []
+well_23956:
+  name: '23956'
+  status: existing
+  loc:
+    x: 89.431466
+    y: 44.425741
+  Q: 429.0
+  pumping_days: 90
+  stream_apportionment121:
+    name: LPR:23956
+    apportionment: 0.2694892777151081
+  stream_response:
+  - LPR:23956
+  dd_response: []
+well_23961:
+  name: '23961'
+  status: existing
+  loc:
+    x: 89.304671
+    y: 44.444118
+  Q: 270.5
+  pumping_days: 90
+  stream_apportionment122:
+    name: LPR:23961
+    apportionment: 0.037115808538281725
+  stream_response:
+  - LPR:23961
+  dd_response: []
+well_23962:
+  name: '23962'
+  status: existing
+  loc:
+    x: 89.438982
+    y: 44.4244349
+  Q: 147.2
+  pumping_days: 90
+  stream_apportionment123:
+    name: LPR:23962
+    apportionment: 0.1746468833352387
+  stream_response:
+  - LPR:23962
+  dd_response: []
+well_23963:
+  name: '23963'
+  status: existing
+  loc:
+    x: 89.4492171
+    y: 44.4036552
+  Q: 105.8
+  pumping_days: 90
+  stream_apportionment124:
+    name: LPR:23963
+    apportionment: 0.11028332367121714
+  stream_response:
+  - LPR:23963
+  dd_response: []
+well_23966:
+  name: '23966'
+  status: existing
+  loc:
+    x: 89.446933
+    y: 44.399341
+  Q: 90.8
+  pumping_days: 120
+  stream_apportionment125:
+    name: LPR:23966
+    apportionment: 0.09907938333028425
+  stream_response:
+  - LPR:23966
+  dd_response: []
+well_23967:
+  name: '23967'
+  status: existing
+  loc:
+    x: 89.45906
+    y: 44.4186883
+  Q: 231.5
+  pumping_days: 60
+  stream_apportionment126:
+    name: LPR:23967
+    apportionment: 0.3544895850271867
+  stream_response:
+  - LPR:23967
+  dd_response: []
+well_23972:
+  name: '23972'
+  status: existing
+  loc:
+    x: 89.574306
+    y: 44.446411
+  Q: 323.1
+  pumping_days: 120
+  stream_apportionment127:
+    name: LPR:23972
+    apportionment: 0.12036354410281776
+  stream_response:
+  - LPR:23972
+  dd_response: []
+well_23977:
+  name: '23977'
+  status: existing
+  loc:
+    x: 89.456735
+    y: 44.4415017
+  Q: 152.5
+  pumping_days: 90
+  stream_apportionment128:
+    name: LPR:23977
+    apportionment: 0.42883030829460045
+  stream_response:
+  - LPR:23977
+  dd_response: []
+well_23978:
+  name: '23978'
+  status: existing
+  loc:
+    x: 89.4515116
+    y: 44.5830467
+  Q: 302.4
+  pumping_days: 90
+  stream_apportionment129:
+    name: LPR:23978
+    apportionment: 0.09467377564926883
+  stream_response:
+  - LPR:23978
+  dd_response: []
+well_23979:
+  name: '23979'
+  status: existing
+  loc:
+    x: 89.435924
+    y: 44.556986
+  Q: 186.4
+  pumping_days: 90
+  stream_apportionment130:
+    name: LPR:23979
+    apportionment: 0.1105489268001983
+  stream_response:
+  - LPR:23979
+  dd_response: []
+well_23980:
+  name: '23980'
+  status: existing
+  loc:
+    x: 89.441812
+    y: 44.405113
+  Q: 151.3
+  pumping_days: 120
+  stream_apportionment131:
+    name: LPR:23980
+    apportionment: 0.11430163290037099
+  stream_response:
+  - LPR:23980
+  dd_response: []
+well_23981:
+  name: '23981'
+  status: existing
+  loc:
+    x: 89.4908727
+    y: 44.4451079
+  Q: 87.2
+  pumping_days: 120
+  stream_apportionment132:
+    name: LPR:23981
+    apportionment: 0.5610538364029308
+  stream_response:
+  - LPR:23981
+  dd_response: []
+well_23983:
+  name: '23983'
+  status: existing
+  loc:
+    x: 89.43967
+    y: 44.535151
+  Q: 806.4
+  pumping_days: 120
+  stream_apportionment133:
+    name: LPR:23983
+    apportionment: 0.17894035176093076
+  stream_response:
+  - LPR:23983
+  dd_response: []
+well_23984:
+  name: '23984'
+  status: existing
+  loc:
+    x: 89.508318
+    y: 44.427312
+  Q: 278.9
+  pumping_days: 120
+  stream_apportionment134:
+    name: LPR:23984
+    apportionment: 0.2832419406943316
+  stream_response:
+  - LPR:23984
+  dd_response: []
+well_23985:
+  name: '23985'
+  status: existing
+  loc:
+    x: 89.5161351
+    y: 44.4375971
+  Q: 333.6
+  pumping_days: 120
+  stream_apportionment135:
+    name: LPR:23985
+    apportionment: 0.47178792019499133
+  stream_response:
+  - LPR:23985
+  dd_response: []
+well_23987:
+  name: '23987'
+  status: existing
+  loc:
+    x: 89.4640183
+    y: 44.4206633
+  Q: 419.8
+  pumping_days: 90
+  stream_apportionment136:
+    name: LPR:23987
+    apportionment: 0.17763280085242333
+  stream_response:
+  - LPR:23987
+  dd_response: []
+well_23998:
+  name: '23998'
+  status: existing
+  loc:
+    x: 89.499075
+    y: 44.541551
+  Q: 93.4
+  pumping_days: 120
+  stream_apportionment137:
+    name: LPR:23998
+    apportionment: 0.07076732574934504
+  stream_response:
+  - LPR:23998
+  dd_response: []
+well_24003:
+  name: '24003'
+  status: existing
+  loc:
+    x: 89.521496
+    y: 44.428347
+  Q: 117.8
+  pumping_days: 180
+  stream_apportionment138:
+    name: LPR:24003
+    apportionment: 0.2261058123835492
+  stream_response:
+  - LPR:24003
+  dd_response: []
+well_24005:
+  name: '24005'
+  status: existing
+  loc:
+    x: 89.4415996
+    y: 44.4336067
+  Q: 284.0
+  pumping_days: 150
+  stream_apportionment139:
+    name: LPR:24005
+    apportionment: 0.3265534226731727
+  stream_response:
+  - LPR:24005
+  dd_response: []
+well_24010:
+  name: '24010'
+  status: existing
+  loc:
+    x: 89.4936421
+    y: 44.4943786
+  Q: 249.9
+  pumping_days: 150
+  stream_apportionment140:
+    name: LPR:24010
+    apportionment: 0.7003773628386416
+  stream_response:
+  - LPR:24010
+  dd_response: []
+well_24011:
+  name: '24011'
+  status: existing
+  loc:
+    x: 89.446966
+    y: 44.491616
+  Q: 257.1
+  pumping_days: 90
+  stream_apportionment141:
+    name: LPR:24011
+    apportionment: 0.6133410931701901
+  stream_response:
+  - LPR:24011
+  dd_response: []
+well_24012:
+  name: '24012'
+  status: existing
+  loc:
+    x: 89.5337167
+    y: 44.4103333
+  Q: 188.1
+  pumping_days: 120
+  stream_apportionment142:
+    name: LPR:24012
+    apportionment: 0.13671212999675517
+  stream_response:
+  - LPR:24012
+  dd_response: []
+well_24016:
+  name: '24016'
+  status: existing
+  loc:
+    x: 89.5590017
+    y: 44.428235
+  Q: 249.1
+  pumping_days: 120
+  stream_apportionment143:
+    name: LPR:24016
+    apportionment: 0.05487736550509943
+  stream_response:
+  - LPR:24016
+  dd_response: []
+well_24024:
+  name: '24024'
+  status: existing
+  loc:
+    x: 89.431705
+    y: 44.397279
+  Q: 161.7
+  pumping_days: 90
+  stream_apportionment144:
+    name: LPR:24024
+    apportionment: 0.09127285127089671
+  stream_response:
+  - LPR:24024
+  dd_response: []
+well_24030:
+  name: '24030'
+  status: existing
+  loc:
+    x: 89.451529
+    y: 44.421802
+  Q: 226.0
+  pumping_days: 90
+  stream_apportionment145:
+    name: LPR:24030
+    apportionment: 0.17683464477786626
+  stream_response:
+  - LPR:24030
+  dd_response: []
+well_24033:
+  name: '24033'
+  status: existing
+  loc:
+    x: 89.4660267
+    y: 44.4135367
+  Q: 267.2
+  pumping_days: 120
+  stream_apportionment146:
+    name: LPR:24033
+    apportionment: 0.13676174484981005
+  stream_response:
+  - LPR:24033
+  dd_response: []
+well_24036:
+  name: '24036'
+  status: existing
+  loc:
+    x: 89.441774
+    y: 44.399726
+  Q: 201.4
+  pumping_days: 120
+  stream_apportionment147:
+    name: LPR:24036
+    apportionment: 0.09937197356831151
+  stream_response:
+  - LPR:24036
+  dd_response: []
+well_24037:
+  name: '24037'
+  status: existing
+  loc:
+    x: 89.4089283
+    y: 44.54313
+  Q: 283.8
+  pumping_days: 60
+  stream_apportionment148:
+    name: LPR:24037
+    apportionment: 0.16056249206714995
+  stream_response:
+  - LPR:24037
+  dd_response: []
+well_24042:
+  name: '24042'
+  status: existing
+  loc:
+    x: 89.4212312
+    y: 44.4252779
+  Q: 263.1
+  pumping_days: 90
+  stream_apportionment149:
+    name: LPR:24042
+    apportionment: 0.151042310698692
+  stream_response:
+  - LPR:24042
+  dd_response: []
+well_24043:
+  name: '24043'
+  status: existing
+  loc:
+    x: 89.431683
+    y: 44.390087
+  Q: 111.4
+  pumping_days: 120
+  stream_apportionment150:
+    name: LPR:24043
+    apportionment: 0.0683705970652107
+  stream_response:
+  - LPR:24043
+  dd_response: []
+well_24045:
+  name: '24045'
+  status: existing
+  loc:
+    x: 89.504699
+    y: 44.451194
+  Q: 204.8
+  pumping_days: 150
+  stream_apportionment151:
+    name: LPR:24045
+    apportionment: 0.4187365530877306
+  stream_response:
+  - LPR:24045
+  dd_response: []
+well_24047:
+  name: '24047'
+  status: existing
+  loc:
+    x: 89.4085538
+    y: 44.4806706
+  Q: 91.5
+  pumping_days: 90
+  stream_apportionment152:
+    name: LPR:24047
+    apportionment: 0.3581415934857616
+  stream_response:
+  - LPR:24047
+  dd_response: []
+well_24049:
+  name: '24049'
+  status: existing
+  loc:
+    x: 89.4959753
+    y: 44.441337
+  Q: 125.3
+  pumping_days: 90
+  stream_apportionment153:
+    name: LPR:24049
+    apportionment: 0.31704478872699515
+  stream_response:
+  - LPR:24049
+  dd_response: []
+well_24059:
+  name: '24059'
+  status: existing
+  loc:
+    x: 89.3919218
+    y: 44.467435
+  Q: 111.8
+  pumping_days: 90
+  stream_apportionment154:
+    name: LPR:24059
+    apportionment: 0.24871023606496742
+  stream_response:
+  - LPR:24059
+  dd_response: []
+well_24063:
+  name: '24063'
+  status: existing
+  loc:
+    x: 89.490748
+    y: 44.426807
+  Q: 81.0
+  pumping_days: 90
+  stream_apportionment155:
+    name: LPR:24063
+    apportionment: 0.30128390821527967
+  stream_response:
+  - LPR:24063
+  dd_response: []
+well_24066:
+  name: '24066'
+  status: existing
+  loc:
+    x: 89.446446
+    y: 44.553605
+  Q: 224.2
+  pumping_days: 120
+  stream_apportionment156:
+    name: LPR:24066
+    apportionment: 0.0877625976213058
+  stream_response:
+  - LPR:24066
+  dd_response: []
+well_24080:
+  name: '24080'
+  status: existing
+  loc:
+    x: 89.456558
+    y: 44.544285
+  Q: 164.4
+  pumping_days: 90
+  stream_apportionment157:
+    name: LPR:24080
+    apportionment: 0.10500769498426941
+  stream_response:
+  - LPR:24080
+  dd_response: []
+well_24091:
+  name: '24091'
+  status: existing
+  loc:
+    x: 89.4925199
+    y: 44.4134667
+  Q: 88.9
+  pumping_days: 90
+  stream_apportionment158:
+    name: LPR:24091
+    apportionment: 0.22096358680336212
+  stream_response:
+  - LPR:24091
+  dd_response: []
+well_24093:
+  name: '24093'
+  status: existing
+  loc:
+    x: 89.472053
+    y: 44.515316
+  Q: 282.7
+  pumping_days: 90
+  stream_apportionment159:
+    name: LPR:24093
+    apportionment: 0.3299690858881283
+  stream_response:
+  - LPR:24093
+  dd_response: []
+well_24110:
+  name: '24110'
+  status: existing
+  loc:
+    x: 89.4620717
+    y: 44.5221717
+  Q: 342.3
+  pumping_days: 90
+  stream_apportionment160:
+    name: LPR:24110
+    apportionment: 0.27603851161050436
+  stream_response:
+  - LPR:24110
+  dd_response: []
+well_24120:
+  name: '24120'
+  status: existing
+  loc:
+    x: 89.524
+    y: 44.3996783
+  Q: 271.1
+  pumping_days: 60
+  stream_apportionment161:
+    name: LPR:24120
+    apportionment: 0.12331237257231226
+  stream_response:
+  - LPR:24120
+  dd_response: []
+well_24121:
+  name: '24121'
+  status: existing
+  loc:
+    x: 89.488751
+    y: 44.516402
+  Q: 80.0
+  pumping_days: 90
+  stream_apportionment162:
+    name: LPR:24121
+    apportionment: 0.2942523340897722
+  stream_response:
+  - LPR:24121
+  dd_response: []
+well_24125:
+  name: '24125'
+  status: existing
+  loc:
+    x: 89.4744583
+    y: 44.4414267
+  Q: 155.7
+  pumping_days: 120
+  stream_apportionment163:
+    name: LPR:24125
+    apportionment: 0.4834067480475898
+  stream_response:
+  - LPR:24125
+  dd_response: []
+well_24130:
+  name: '24130'
+  status: existing
+  loc:
+    x: 89.517895
+    y: 44.40333
+  Q: 282.3
+  pumping_days: 90
+  stream_apportionment164:
+    name: LPR:24130
+    apportionment: 0.13110056927579206
+  stream_response:
+  - LPR:24130
+  dd_response: []
+well_24135:
+  name: '24135'
+  status: existing
+  loc:
+    x: 89.5318484
+    y: 44.5215254
+  Q: 67.6
+  pumping_days: 150
+  stream_apportionment165:
+    name: LPR:24135
+    apportionment: 0.0642481499656417
+  stream_response:
+  - LPR:24135
+  dd_response: []
+well_24137:
+  name: '24137'
+  status: existing
+  loc:
+    x: 89.5085
+    y: 44.4871717
+  Q: 185.1
+  pumping_days: 120
+  stream_apportionment166:
+    name: LPR:24137
+    apportionment: 0.5930915726281696
+  stream_response:
+  - LPR:24137
+  dd_response: []
+well_24165:
+  name: '24165'
+  status: existing
+  loc:
+    x: 89.528813
+    y: 44.428247
+  Q: 115.2
+  pumping_days: 150
+  stream_apportionment167:
+    name: LPR:24165
+    apportionment: 0.20523117413692896
+  stream_response:
+  - LPR:24165
+  dd_response: []
+well_24166:
+  name: '24166'
+  status: existing
+  loc:
+    x: 89.5336933
+    y: 44.428355
+  Q: 115.3
+  pumping_days: 120
+  stream_apportionment168:
+    name: LPR:24166
+    apportionment: 0.18655233962437115
+  stream_response:
+  - LPR:24166
+  dd_response: []
+well_24169:
+  name: '24169'
+  status: existing
+  loc:
+    x: 89.412993
+    y: 44.565916
+  Q: 147.6
+  pumping_days: 90
+  stream_apportionment169:
+    name: LPR:24169
+    apportionment: 0.11061269286066149
+  stream_response:
+  - LPR:24169
+  dd_response: []
+well_24172:
+  name: '24172'
+  status: existing
+  loc:
+    x: 89.4850534
+    y: 44.429115
+  Q: 71.9
+  pumping_days: 90
+  stream_apportionment170:
+    name: LPR:24172
+    apportionment: 0.3532411938848773
+  stream_response:
+  - LPR:24172
+  dd_response: []
+well_24195:
+  name: '24195'
+  status: existing
+  loc:
+    x: 89.412283
+    y: 44.528599
+  Q: 1.6
+  pumping_days: 30
+  stream_apportionment171:
+    name: LPR:24195
+    apportionment: 0.2065189428395653
+  stream_response:
+  - LPR:24195
+  dd_response: []
+well_24197:
+  name: '24197'
+  status: existing
+  loc:
+    x: 89.445139
+    y: 44.4773
+  Q: 249.1
+  pumping_days: 90
+  stream_apportionment172:
+    name: LPR:24197
+    apportionment: 0.6096003615836257
+  stream_response:
+  - LPR:24197
+  dd_response: []
+well_24203:
+  name: '24203'
+  status: existing
+  loc:
+    x: 89.4936421
+    y: 44.4943786
+  Q: 257.9
+  pumping_days: 120
+  stream_apportionment173:
+    name: LPR:24203
+    apportionment: 0.7003773628386416
+  stream_response:
+  - LPR:24203
+  dd_response: []
+well_24216:
+  name: '24216'
+  status: existing
+  loc:
+    x: 89.459285
+    y: 44.565013
+  Q: 156.2
+  pumping_days: 90
+  stream_apportionment174:
+    name: LPR:24216
+    apportionment: 0.07489175153947561
+  stream_response:
+  - LPR:24216
+  dd_response: []
+well_24225:
+  name: '24225'
+  status: existing
+  loc:
+    x: 89.4493034
+    y: 44.4394417
+  Q: 109.4
+  pumping_days: 120
+  stream_apportionment175:
+    name: LPR:24225
+    apportionment: 0.3121849787248363
+  stream_response:
+  - LPR:24225
+  dd_response: []
+well_24226:
+  name: '24226'
+  status: existing
+  loc:
+    x: 89.4940917
+    y: 44.5122767
+  Q: 2.1
+  pumping_days: 60
+  stream_apportionment176:
+    name: LPR:24226
+    apportionment: 0.5010368351424088
+  stream_response:
+  - LPR:24226
+  dd_response: []
+well_24227:
+  name: '24227'
+  status: existing
+  loc:
+    x: 89.4717617
+    y: 44.430535
+  Q: 122.6
+  pumping_days: 120
+  stream_apportionment177:
+    name: LPR:24227
+    apportionment: 0.3540691585372233
+  stream_response:
+  - LPR:24227
+  dd_response: []
+well_24239:
+  name: '24239'
+  status: existing
+  loc:
+    x: 89.498097
+    y: 44.476295
+  Q: 271.5
+  pumping_days: 120
+  stream_apportionment178:
+    name: LPR:24239
+    apportionment: 0.8557547248208646
+  stream_response:
+  - LPR:24239
+  dd_response: []
+well_24240:
+  name: '24240'
+  status: existing
+  loc:
+    x: 89.4237464
+    y: 44.4417826
+  Q: 252.4
+  pumping_days: 180
+  stream_apportionment179:
+    name: LPR:24240
+    apportionment: 0.3003238817520039
+  stream_response:
+  - LPR:24240
+  dd_response: []
+well_24247:
+  name: '24247'
+  status: existing
+  loc:
+    x: 89.477232
+    y: 44.40939
+  Q: 65.5
+  pumping_days: 90
+  stream_apportionment180:
+    name: LPR:24247
+    apportionment: 0.17870046429806577
+  stream_response:
+  - LPR:24247
+  dd_response: []
+well_24249:
+  name: '24249'
+  status: existing
+  loc:
+    x: 89.431666
+    y: 44.418798
+  Q: 27.7
+  pumping_days: 90
+  stream_apportionment181:
+    name: LPR:24249
+    apportionment: 0.14831212881505096
+  stream_response:
+  - LPR:24249
+  dd_response: []
+well_24252:
+  name: '24252'
+  status: existing
+  loc:
+    x: 89.5386667
+    y: 44.432
+  Q: 156.8
+  pumping_days: 120
+  stream_apportionment182:
+    name: LPR:24252
+    apportionment: 0.17753495436638206
+  stream_response:
+  - LPR:24252
+  dd_response: []
+well_24253:
+  name: '24253'
+  status: existing
+  loc:
+    x: 89.4332
+    y: 44.413782
+  Q: 132.8
+  pumping_days: 60
+  stream_apportionment183:
+    name: LPR:24253
+    apportionment: 0.13557894197370055
+  stream_response:
+  - LPR:24253
+  dd_response: []
+well_24256:
+  name: '24256'
+  status: existing
+  loc:
+    x: 89.5055255
+    y: 44.4088605
+  Q: 63.1
+  pumping_days: 120
+  stream_apportionment184:
+    name: LPR:24256
+    apportionment: 0.18083613094913245
+  stream_response:
+  - LPR:24256
+  dd_response: []
+well_24265:
+  name: '24265'
+  status: existing
+  loc:
+    x: 89.4851667
+    y: 44.512245
+  Q: 50.8
+  pumping_days: 90
+  stream_apportionment185:
+    name: LPR:24265
+    apportionment: 0.3547610309295112
+  stream_response:
+  - LPR:24265
+  dd_response: []
+well_24266:
+  name: '24266'
+  status: existing
+  loc:
+    x: 89.5211377
+    y: 44.4339456
+  Q: 42.9
+  pumping_days: 120
+  stream_apportionment186:
+    name: LPR:24266
+    apportionment: 0.2531725345492554
+  stream_response:
+  - LPR:24266
+  dd_response: []
+well_24274:
+  name: '24274'
+  status: existing
+  loc:
+    x: 89.4569033
+    y: 44.4812633
+  Q: 82.2
+  pumping_days: 90
+  stream_apportionment187:
+    name: LPR:24274
+    apportionment: 0.7262976131228492
+  stream_response:
+  - LPR:24274
+  dd_response: []
+well_24279:
+  name: '24279'
+  status: existing
+  loc:
+    x: 89.498
+    y: 44.5135
+  Q: 102.3
+  pumping_days: 90
+  stream_apportionment188:
+    name: LPR:24279
+    apportionment: 0.29521875033417255
+  stream_response:
+  - LPR:24279
+  dd_response: []
+well_24283:
+  name: '24283'
+  status: existing
+  loc:
+    x: 89.5268943
+    y: 44.5142424
+  Q: 405.4
+  pumping_days: 150
+  stream_apportionment189:
+    name: LPR:24283
+    apportionment: 0.2005919235486405
+  stream_response:
+  - LPR:24283
+  dd_response: []
+well_24285:
+  name: '24285'
+  status: existing
+  loc:
+    x: 89.459565
+    y: 44.5780367
+  Q: 172.8
+  pumping_days: 120
+  stream_apportionment190:
+    name: LPR:24285
+    apportionment: 0.08704855194577452
+  stream_response:
+  - LPR:24285
+  dd_response: []
+well_24286:
+  name: '24286'
+  status: existing
+  loc:
+    x: 89.455222
+    y: 44.574606
+  Q: 134.0
+  pumping_days: 90
+  stream_apportionment191:
+    name: LPR:24286
+    apportionment: 0.08976531800482536
+  stream_response:
+  - LPR:24286
+  dd_response: []
+well_24291:
+  name: '24291'
+  status: existing
+  loc:
+    x: 89.46693
+    y: 44.44205
+  Q: 95.4
+  pumping_days: 120
+  stream_apportionment192:
+    name: LPR:24291
+    apportionment: 0.4674653748675583
+  stream_response:
+  - LPR:24291
+  dd_response: []
+well_24293:
+  name: '24293'
+  status: existing
+  loc:
+    x: 89.490886
+    y: 44.4341774
+  Q: 68.3
+  pumping_days: 90
+  stream_apportionment193:
+    name: LPR:24293
+    apportionment: 0.26133432370060117
+  stream_response:
+  - LPR:24293
+  dd_response: []
+well_24294:
+  name: '24294'
+  status: existing
+  loc:
+    x: 89.4451833
+    y: 44.5745367
+  Q: 108.4
+  pumping_days: 120
+  stream_apportionment194:
+    name: LPR:24294
+    apportionment: 0.0975186847511517
+  stream_response:
+  - LPR:24294
+  dd_response: []
+well_24302:
+  name: '24302'
+  status: existing
+  loc:
+    x: 89.4516667
+    y: 44.595
+  Q: 155.2
+  pumping_days: 60
+  stream_apportionment195:
+    name: LPR:24302
+    apportionment: 0.09940570537971602
+  stream_response:
+  - LPR:24302
+  dd_response: []
+well_24305:
+  name: '24305'
+  status: existing
+  loc:
+    x: 89.3921468
+    y: 44.5944867
+  Q: 0.8
+  pumping_days: 60
+  stream_apportionment196:
+    name: LPR:24305
+    apportionment: 0.08372458899237875
+  stream_response:
+  - LPR:24305
+  dd_response: []
+well_24307:
+  name: '24307'
+  status: existing
+  loc:
+    x: 89.439069
+    y: 44.4389023
+  Q: 108.6
+  pumping_days: 90
+  stream_apportionment197:
+    name: LPR:24307
+    apportionment: 0.23563329142853087
+  stream_response:
+  - LPR:24307
+  dd_response: []
+well_24311:
+  name: '24311'
+  status: existing
+  loc:
+    x: 89.503322
+    y: 44.427022
+  Q: 248.0
+  pumping_days: 90
+  stream_apportionment198:
+    name: LPR:24311
+    apportionment: 0.2882448684342382
+  stream_response:
+  - LPR:24311
+  dd_response: []
+well_24317:
+  name: '24317'
+  status: existing
+  loc:
+    x: 89.531895
+    y: 44.5178655
+  Q: 59.5
+  pumping_days: 150
+  stream_apportionment199:
+    name: LPR:24317
+    apportionment: 0.10314642830673641
+  stream_response:
+  - LPR:24317
+  dd_response: []
+well_24323:
+  name: '24323'
+  status: existing
+  loc:
+    x: 89.5033
+    y: 44.46495
+  Q: 206.4
+  pumping_days: 90
+  stream_apportionment200:
+    name: LPR:24323
+    apportionment: 0.8878401729384515
+  stream_response:
+  - LPR:24323
+  dd_response: []
+well_58403:
+  name: '58403'
+  status: existing
+  loc:
+    x: 89.4119
+    y: 44.5033
+  Q: 139.2
+  pumping_days: 240
+  stream_apportionment201:
+    name: LPR:58403
+    apportionment: 0.2839142897018998
+  stream_response:
+  - LPR:58403
+  dd_response: []
+well_58405:
+  name: '58405'
+  status: existing
+  loc:
+    x: 89.5166274
+    y: 44.4566635
+  Q: 418.0
+  pumping_days: 365
+  stream_apportionment202:
+    name: LPR:58405
+    apportionment: 0.658486081991497
+  stream_response:
+  - LPR:58405
+  dd_response: []
+well_58406:
+  name: '58406'
+  status: existing
+  loc:
+    x: 89.559851
+    y: 44.459032
+  Q: 416.4
+  pumping_days: 365
+  stream_apportionment203:
+    name: LPR:58406
+    apportionment: 0.08522539776605756
+  stream_response:
+  - LPR:58406
+  dd_response: []
+well_58407:
+  name: '58407'
+  status: existing
+  loc:
+    x: 89.5593768
+    y: 44.4572966
+  Q: 406.4
+  pumping_days: 365
+  stream_apportionment204:
+    name: LPR:58407
+    apportionment: 0.10742682716306066
+  stream_response:
+  - LPR:58407
+  dd_response: []
+well_58410:
+  name: '58410'
+  status: existing
+  loc:
+    x: 89.4288288
+    y: 44.4420326
+  Q: 215.3
+  pumping_days: 240
+  stream_apportionment205:
+    name: LPR:58410
+    apportionment: 0.3237874621221441
+  stream_response:
+  - LPR:58410
+  dd_response: []
+well_58411:
+  name: '58411'
+  status: existing
+  loc:
+    x: 89.4288357
+    y: 44.4347801
+  Q: 69.4
+  pumping_days: 210
+  stream_apportionment206:
+    name: LPR:58411
+    apportionment: 0.1937082942094699
+  stream_response:
+  - LPR:58411
+  dd_response: []
+well_58414:
+  name: '58414'
+  status: existing
+  loc:
+    x: 89.41097
+    y: 44.4997
+  Q: 18.2
+  pumping_days: 150
+  stream_apportionment207:
+    name: LPR:58414
+    apportionment: 0.2871277453013503
+  stream_response:
+  - LPR:58414
+  dd_response: []
+well_58416:
+  name: '58416'
+  status: existing
+  loc:
+    x: 89.4133
+    y: 44.5041
+  Q: 2.9
+  pumping_days: 300
+  stream_apportionment208:
+    name: LPR:58416
+    apportionment: 0.28681124426020244
+  stream_response:
+  - LPR:58416
+  dd_response: []
+well_58424:
+  name: '58424'
+  status: existing
+  loc:
+    x: 89.4416317
+    y: 44.4123767
+  Q: 121.1
+  pumping_days: 210
+  stream_apportionment209:
+    name: LPR:58424
+    apportionment: 0.13664384636765306
+  stream_response:
+  - LPR:58424
+  dd_response: []
+well_58433:
+  name: '58433'
+  status: existing
+  loc:
+    x: 89.4237384
+    y: 44.4454054
+  Q: 300.4
+  pumping_days: 270
+  stream_apportionment210:
+    name: LPR:58433
+    apportionment: 0.31458741762227044
+  stream_response:
+  - LPR:58433
+  dd_response: []
+well_58434:
+  name: '58434'
+  status: existing
+  loc:
+    x: 89.49681
+    y: 44.4176317
+  Q: 0.2
+  pumping_days: 60
+  stream_apportionment211:
+    name: LPR:58434
+    apportionment: 0.21110288539605426
+  stream_response:
+  - LPR:58434
+  dd_response: []
+well_67673:
+  name: '67673'
+  status: existing
+  loc:
+    x: 89.48496
+    y: 44.4162767
+  Q: 177.7
+  pumping_days: 120
+  stream_apportionment212:
+    name: LPR:67673
+    apportionment: 0.21348305718450555
+  stream_response:
+  - LPR:67673
+  dd_response: []
+well_67895:
+  name: '67895'
+  status: existing
+  loc:
+    x: 89.4622001
+    y: 44.3972333
+  Q: 0.1
+  pumping_days: 60
+  stream_apportionment213:
+    name: LPR:67895
+    apportionment: 0.0879169912503195
+  stream_response:
+  - LPR:67895
+  dd_response: []
+well_68008:
+  name: '68008'
+  status: existing
+  loc:
+    x: 89.5222033
+    y: 44.4536283
+  Q: 1.6
+  pumping_days: 365
+  stream_apportionment214:
+    name: LPR:68008
+    apportionment: 0.5728424235909771
+  stream_response:
+  - LPR:68008
+  dd_response: []
+well_68216:
+  name: '68216'
+  status: existing
+  loc:
+    x: 89.3313583
+    y: 44.4717533
+  Q: 0.1
+  pumping_days: 180
+  stream_apportionment215:
+    name: LPR:68216
+    apportionment: 0.1264519341177099
+  stream_response:
+  - LPR:68216
+  dd_response: []
+well_68218:
+  name: '68218'
+  status: existing
+  loc:
+    x: 89.32543
+    y: 44.4714483
+  Q: 0.1
+  pumping_days: 180
+  stream_apportionment216:
+    name: LPR:68218
+    apportionment: 0.10920135239891753
+  stream_response:
+  - LPR:68218
+  dd_response: []
+well_68219:
+  name: '68219'
+  status: existing
+  loc:
+    x: 89.3304734
+    y: 44.471125
+  Q: 0.2
+  pumping_days: 240
+  stream_apportionment217:
+    name: LPR:68219
+    apportionment: 0.12345398793673903
+  stream_response:
+  - LPR:68219
+  dd_response: []
+well_68220:
+  name: '68220'
+  status: existing
+  loc:
+    x: 89.3300383
+    y: 44.4676333
+  Q: 0.6
+  pumping_days: 180
+  stream_apportionment218:
+    name: LPR:68220
+    apportionment: 0.12018093481706961
+  stream_response:
+  - LPR:68220
+  dd_response: []
+well_68221:
+  name: '68221'
+  status: existing
+  loc:
+    x: 89.3335083
+    y: 44.47348
+  Q: 1.0
+  pumping_days: 180
+  stream_apportionment219:
+    name: LPR:68221
+    apportionment: 0.1341575414141859
+  stream_response:
+  - LPR:68221
+  dd_response: []
+well_68294:
+  name: '68294'
+  status: existing
+  loc:
+    x: 89.28774
+    y: 44.45626
+  Q: 9.2
+  pumping_days: 90
+  stream_apportionment220:
+    name: LPR:68294
+    apportionment: 0.02512703238257453
+  stream_response:
+  - LPR:68294
+  dd_response: []
+well_68475:
+  name: '68475'
+  status: existing
+  loc:
+    x: 89.4241517
+    y: 44.448735
+  Q: 577.5
+  pumping_days: 240
+  stream_apportionment221:
+    name: LPR:68475
+    apportionment: 0.33064924652563626
+  stream_response:
+  - LPR:68475
+  dd_response: []
+well_68529:
+  name: '68529'
+  status: existing
+  loc:
+    x: 89.4843333
+    y: 44.4799167
+  Q: 219.9
+  pumping_days: 120
+  stream_apportionment222:
+    name: LPR:68529
+    apportionment: 0.9398048970962632
+  stream_response:
+  - LPR:68529
+  dd_response: []
+well_68693:
+  name: '68693'
+  status: existing
+  loc:
+    x: 89.4006501
+    y: 44.42055
+  Q: 13.0
+  pumping_days: 365
+  stream_apportionment223:
+    name: LPR:68693
+    apportionment: 0.11211087300459599
+  stream_response:
+  - LPR:68693
+  dd_response: []
+well_68695:
+  name: '68695'
+  status: existing
+  loc:
+    x: 89.4062167
+    y: 44.4141167
+  Q: 517.8
+  pumping_days: 90
+  stream_apportionment224:
+    name: LPR:68695
+    apportionment: 0.11358830565914244
+  stream_response:
+  - LPR:68695
+  dd_response: []
+well_68872:
+  name: '68872'
+  status: existing
+  loc:
+    x: 89.514335
+    y: 44.428577
+  Q: 1.4
+  pumping_days: 365
+  stream_apportionment225:
+    name: LPR:68872
+    apportionment: 0.23790692800552943
+  stream_response:
+  - LPR:68872
+  dd_response: []
+well_68917:
+  name: '68917'
+  status: existing
+  loc:
+    x: 89.3551667
+    y: 44.4942667
+  Q: 170.5
+  pumping_days: 90
+  stream_apportionment226:
+    name: LPR:68917
+    apportionment: 0.16313725210646912
+  stream_response:
+  - LPR:68917
+  dd_response: []
+well_68925:
+  name: '68925'
+  status: existing
+  loc:
+    x: 89.476215
+    y: 44.5235383
+  Q: 3.1
+  pumping_days: 365
+  stream_apportionment227:
+    name: LPR:68925
+    apportionment: 0.35126374597525645
+  stream_response:
+  - LPR:68925
+  dd_response: []
+well_68926:
+  name: '68926'
+  status: existing
+  loc:
+    x: 89.4759667
+    y: 44.5243833
+  Q: 121.0
+  pumping_days: 60
+  stream_apportionment228:
+    name: LPR:68926
+    apportionment: 0.3429344070868703
+  stream_response:
+  - LPR:68926
+  dd_response: []
+well_69049:
+  name: '69049'
+  status: existing
+  loc:
+    x: 89.4756
+    y: 44.48435
+  Q: 37.6
+  pumping_days: 120
+  stream_apportionment229:
+    name: LPR:69049
+    apportionment: 0.9233544207339791
+  stream_response:
+  - LPR:69049
+  dd_response: []
+well_69065:
+  name: '69065'
+  status: existing
+  loc:
+    x: 89.449253
+    y: 44.4357888
+  Q: 9.7
+  pumping_days: 300
+  stream_apportionment230:
+    name: LPR:69065
+    apportionment: 0.24657115428198492
+  stream_response:
+  - LPR:69065
+  dd_response: []
+well_69282:
+  name: '69282'
+  status: existing
+  loc:
+    x: 89.4517334
+    y: 44.4594333
+  Q: 156.2
+  pumping_days: 90
+  stream_apportionment231:
+    name: LPR:69282
+    apportionment: 0.5525983062281702
+  stream_response:
+  - LPR:69282
+  dd_response: []
+well_69288:
+  name: '69288'
+  status: existing
+  loc:
+    x: 89.3578831
+    y: 44.4853698
+  Q: 2.1
+  pumping_days: 365
+  stream_apportionment232:
+    name: LPR:69288
+    apportionment: 0.07671203105735105
+  stream_response:
+  - LPR:69288
+  dd_response: []
+well_69289:
+  name: '69289'
+  status: existing
+  loc:
+    x: 89.3506383
+    y: 44.4854167
+  Q: 135.1
+  pumping_days: 90
+  stream_apportionment233:
+    name: LPR:69289
+    apportionment: 0.0517723983539796
+  stream_response:
+  - LPR:69289
+  dd_response: []
+well_69480:
+  name: '69480'
+  status: existing
+  loc:
+    x: 89.3710368
+    y: 44.473565
+  Q: 120.8
+  pumping_days: 90
+  stream_apportionment234:
+    name: LPR:69480
+    apportionment: 0.21874739930956416
+  stream_response:
+  - LPR:69480
+  dd_response: []
+well_69508:
+  name: '69508'
+  status: existing
+  loc:
+    x: 89.39497
+    y: 44.59009
+  Q: 108.7
+  pumping_days: 90
+  stream_apportionment235:
+    name: LPR:69508
+    apportionment: 0.09320786825930025
+  stream_response:
+  - LPR:69508
+  dd_response: []
+well_69576:
+  name: '69576'
+  status: existing
+  loc:
+    x: 89.39602
+    y: 44.5449
+  Q: 67.8
+  pumping_days: 90
+  stream_apportionment236:
+    name: LPR:69576
+    apportionment: 0.1450321578050685
+  stream_response:
+  - LPR:69576
+  dd_response: []
+well_69635:
+  name: '69635'
+  status: existing
+  loc:
+    x: 89.3347167
+    y: 44.4977833
+  Q: 126.2
+  pumping_days: 120
+  stream_apportionment237:
+    name: LPR:69635
+    apportionment: 0.08774938512523181
+  stream_response:
+  - LPR:69635
+  dd_response: []
+well_69636:
+  name: '69636'
+  status: existing
+  loc:
+    x: 89.3372868
+    y: 44.4958067
+  Q: 9.4
+  pumping_days: 365
+  stream_apportionment238:
+    name: LPR:69636
+    apportionment: 0.10884793463000392
+  stream_response:
+  - LPR:69636
+  dd_response: []
+well_69638:
+  name: '69638'
+  status: existing
+  loc:
+    x: 89.3372918
+    y: 44.49581
+  Q: 2.2
+  pumping_days: 365
+  stream_apportionment239:
+    name: LPR:69638
+    apportionment: 0.10886448117229884
+  stream_response:
+  - LPR:69638
+  dd_response: []
+well_69669:
+  name: '69669'
+  status: existing
+  loc:
+    x: 89.298195
+    y: 44.4643883
+  Q: 1.8
+  pumping_days: 365
+  stream_apportionment240:
+    name: LPR:69669
+    apportionment: 0.07026037219769364
+  stream_response:
+  - LPR:69669
+  dd_response: []
+well_69970:
+  name: '69970'
+  status: existing
+  loc:
+    x: 89.4983333
+    y: 44.4767833
+  Q: 62.9
+  pumping_days: 120
+  stream_apportionment241:
+    name: LPR:69970
+    apportionment: 0.8458549841051745
+  stream_response:
+  - LPR:69970
+  dd_response: []
+well_69990:
+  name: '69990'
+  status: existing
+  loc:
+    x: 89.4851167
+    y: 44.5344667
+  Q: 156.4
+  pumping_days: 60
+  stream_apportionment242:
+    name: LPR:69990
+    apportionment: 0.1445506452812261
+  stream_response:
+  - LPR:69990
+  dd_response: []
+well_70119:
+  name: '70119'
+  status: existing
+  loc:
+    x: 89.5073499
+    y: 44.4900667
+  Q: 192.2
+  pumping_days: 150
+  stream_apportionment243:
+    name: LPR:70119
+    apportionment: 0.5927074757201275
+  stream_response:
+  - LPR:70119
+  dd_response: []
+well_70120:
+  name: '70120'
+  status: existing
+  loc:
+    x: 89.5023605
+    y: 44.4973419
+  Q: 243.7
+  pumping_days: 150
+  stream_apportionment244:
+    name: LPR:70120
+    apportionment: 0.5726651173660285
+  stream_response:
+  - LPR:70120
+  dd_response: []
+well_70186:
+  name: '70186'
+  status: existing
+  loc:
+    x: 89.4619617
+    y: 44.4840133
+  Q: 125.1
+  pumping_days: 90
+  stream_apportionment245:
+    name: LPR:70186
+    apportionment: 0.7780957536320047
+  stream_response:
+  - LPR:70186
+  dd_response: []
+well_70191:
+  name: '70191'
+  status: existing
+  loc:
+    x: 89.4476501
+    y: 44.54455
+  Q: 1.2
+  pumping_days: 330
+  stream_apportionment246:
+    name: LPR:70191
+    apportionment: 0.12023111871910504
+  stream_response:
+  - LPR:70191
+  dd_response: []
+well_70263:
+  name: '70263'
+  status: existing
+  loc:
+    x: 89.3295001
+    y: 44.4795283
+  Q: 165.9
+  pumping_days: 90
+  stream_apportionment247:
+    name: LPR:70263
+    apportionment: 0.06130603590171876
+  stream_response:
+  - LPR:70263
+  dd_response: []
+well_70517:
+  name: '70517'
+  status: existing
+  loc:
+    x: 89.4472
+    y: 44.5835333
+  Q: 2.8
+  pumping_days: 270
+  stream_apportionment248:
+    name: LPR:70517
+    apportionment: 0.09818117292434846
+  stream_response:
+  - LPR:70517
+  dd_response: []
+well_70519:
+  name: '70519'
+  status: existing
+  loc:
+    x: 89.44705
+    y: 44.5835333
+  Q: 23.5
+  pumping_days: 365
+  stream_apportionment249:
+    name: LPR:70519
+    apportionment: 0.09829064616122325
+  stream_response:
+  - LPR:70519
+  dd_response: []
+well_70520:
+  name: '70520'
+  status: existing
+  loc:
+    x: 89.4467667
+    y: 44.5835833
+  Q: 6.1
+  pumping_days: 240
+  stream_apportionment250:
+    name: LPR:70520
+    apportionment: 0.09850535567176412
+  stream_response:
+  - LPR:70520
+  dd_response: []
+well_70548:
+  name: '70548'
+  status: existing
+  loc:
+    x: 89.3590668
+    y: 44.5576667
+  Q: 368.5
+  pumping_days: 90
+  stream_apportionment251:
+    name: LPR:70548
+    apportionment: 0.028566136067248706
+  stream_response:
+  - LPR:70548
+  dd_response: []
+well_70881:
+  name: '70881'
+  status: existing
+  loc:
+    x: 89.4237
+    y: 44.4869333
+  Q: 169.4
+  pumping_days: 150
+  stream_apportionment252:
+    name: LPR:70881
+    apportionment: 0.46509730675928995
+  stream_response:
+  - LPR:70881
+  dd_response: []
+well_70961:
+  name: '70961'
+  status: existing
+  loc:
+    x: 89.3629834
+    y: 44.4947667
+  Q: 66.4
+  pumping_days: 90
+  stream_apportionment253:
+    name: LPR:70961
+    apportionment: 0.19302825405392707
+  stream_response:
+  - LPR:70961
+  dd_response: []
+well_70974:
+  name: '70974'
+  status: existing
+  loc:
+    x: 89.3629747
+    y: 44.4964253
+  Q: 5.7
+  pumping_days: 365
+  stream_apportionment254:
+    name: LPR:70974
+    apportionment: 0.19291055092139772
+  stream_response:
+  - LPR:70974
+  dd_response: []
+well_70975:
+  name: '70975'
+  status: existing
+  loc:
+    x: 89.3629747
+    y: 44.4964253
+  Q: 1.0
+  pumping_days: 365
+  stream_apportionment255:
+    name: LPR:70975
+    apportionment: 0.19291055092139772
+  stream_response:
+  - LPR:70975
+  dd_response: []
+well_71044:
+  name: '71044'
+  status: existing
+  loc:
+    x: 89.49693
+    y: 44.4836
+  Q: 63.8
+  pumping_days: 120
+  stream_apportionment256:
+    name: LPR:71044
+    apportionment: 0.7640388890968324
+  stream_response:
+  - LPR:71044
+  dd_response: []
+well_71062:
+  name: '71062'
+  status: existing
+  loc:
+    x: 89.42695
+    y: 44.43185
+  Q: 19.6
+  pumping_days: 120
+  stream_apportionment257:
+    name: LPR:71062
+    apportionment: 0.1795843732796481
+  stream_response:
+  - LPR:71062
+  dd_response: []
+well_71063:
+  name: '71063'
+  status: existing
+  loc:
+    x: 89.4315666
+    y: 44.43655
+  Q: 200.3
+  pumping_days: 120
+  stream_apportionment258:
+    name: LPR:71063
+    apportionment: 0.206376550606979
+  stream_response:
+  - LPR:71063
+  dd_response: []
+well_71109:
+  name: '71109'
+  status: existing
+  loc:
+    x: 89.4960056
+    y: 44.4852068
+  Q: 15.0
+  pumping_days: 365
+  stream_apportionment259:
+    name: LPR:71109
+    apportionment: 0.7704948718125143
+  stream_response:
+  - LPR:71109
+  dd_response: []
+well_71110:
+  name: '71110'
+  status: existing
+  loc:
+    x: 89.498127
+    y: 44.4840751
+  Q: 13.0
+  pumping_days: 300
+  stream_apportionment260:
+    name: LPR:71110
+    apportionment: 0.7464158501526951
+  stream_response:
+  - LPR:71110
+  dd_response: []
+well_71117:
+  name: '71117'
+  status: existing
+  loc:
+    x: 89.4117
+    y: 44.3890167
+  Q: 356.0
+  pumping_days: 90
+  stream_apportionment261:
+    name: LPR:71117
+    apportionment: 0.15629214702623767
+  stream_response:
+  - LPR:71117
+  dd_response: []
+well_71156:
+  name: '71156'
+  status: existing
+  loc:
+    x: 89.4942333
+    y: 44.5455167
+  Q: 232.2
+  pumping_days: 120
+  stream_apportionment262:
+    name: LPR:71156
+    apportionment: 0.0412545826313069
+  stream_response:
+  - LPR:71156
+  dd_response: []
+well_71199:
+  name: '71199'
+  status: existing
+  loc:
+    x: 89.3778333
+    y: 44.4903
+  Q: 12.3
+  pumping_days: 270
+  stream_apportionment263:
+    name: LPR:71199
+    apportionment: 0.24290085502256223
+  stream_response:
+  - LPR:71199
+  dd_response: []
+well_71495:
+  name: '71495'
+  status: existing
+  loc:
+    x: 89.4788832
+    y: 44.43055
+  Q: 17.7
+  pumping_days: 120
+  stream_apportionment264:
+    name: LPR:71495
+    apportionment: 0.3609171908699524
+  stream_response:
+  - LPR:71495
+  dd_response: []
+well_71935:
+  name: '71935'
+  status: existing
+  loc:
+    x: 89.49835
+    y: 44.5131833
+  Q: 33.5
+  pumping_days: 90
+  stream_apportionment265:
+    name: LPR:71935
+    apportionment: 0.2963535946671694
+  stream_response:
+  - LPR:71935
+  dd_response: []
+well_71998:
+  name: '71998'
+  status: existing
+  loc:
+    x: 89.33463
+    y: 44.48317
+  Q: 193.6
+  pumping_days: 90
+  stream_apportionment266:
+    name: LPR:71998
+    apportionment: 0.06122777480853361
+  stream_response:
+  - LPR:71998
+  dd_response: []
+well_72082:
+  name: '72082'
+  status: existing
+  loc:
+    x: 89.4956667
+    y: 44.4233333
+  Q: 23.8
+  pumping_days: 120
+  stream_apportionment267:
+    name: LPR:72082
+    apportionment: 0.26287251951960444
+  stream_response:
+  - LPR:72082
+  dd_response: []
+well_72094:
+  name: '72094'
+  status: existing
+  loc:
+    x: 89.5601332
+    y: 44.4565083
+  Q: 1.2
+  pumping_days: 120
+  stream_apportionment268:
+    name: LPR:72094
+    apportionment: 0.10910111853614356
+  stream_response:
+  - LPR:72094
+  dd_response: []
+well_72095:
+  name: '72095'
+  status: existing
+  loc:
+    x: 89.5622333
+    y: 44.4562
+  Q: 1.2
+  pumping_days: 120
+  stream_apportionment269:
+    name: LPR:72095
+    apportionment: 0.10552721378062017
+  stream_response:
+  - LPR:72095
+  dd_response: []
+well_72269:
+  name: '72269'
+  status: existing
+  loc:
+    x: 89.456695
+    y: 44.42724
+  Q: 130.9
+  pumping_days: 150
+  stream_apportionment270:
+    name: LPR:72269
+    apportionment: 0.21001761667855523
+  stream_response:
+  - LPR:72269
+  dd_response: []
+well_72301:
+  name: '72301'
+  status: existing
+  loc:
+    x: 89.4444167
+    y: 44.5406667
+  Q: 0.8
+  pumping_days: 150
+  stream_apportionment271:
+    name: LPR:72301
+    apportionment: 0.14607475046286808
+  stream_response:
+  - LPR:72301
+  dd_response: []
+well_72304:
+  name: '72304'
+  status: existing
+  loc:
+    x: 89.4435
+    y: 44.54072
+  Q: 7.3
+  pumping_days: 120
+  stream_apportionment272:
+    name: LPR:72304
+    apportionment: 0.14716358193131338
+  stream_response:
+  - LPR:72304
+  dd_response: []
+well_72421:
+  name: '72421'
+  status: existing
+  loc:
+    x: 89.3905999
+    y: 44.5931
+  Q: 1.1
+  pumping_days: 365
+  stream_apportionment273:
+    name: LPR:72421
+    apportionment: 0.08242939763696733
+  stream_response:
+  - LPR:72421
+  dd_response: []
+well_72422:
+  name: '72422'
+  status: existing
+  loc:
+    x: 89.3882783
+    y: 44.5955283
+  Q: 241.0
+  pumping_days: 60
+  stream_apportionment274:
+    name: LPR:72422
+    apportionment: 0.07518009432051463
+  stream_response:
+  - LPR:72422
+  dd_response: []
+well_72436:
+  name: '72436'
+  status: existing
+  loc:
+    x: 89.38805
+    y: 44.4490333
+  Q: 2.2
+  pumping_days: 365
+  stream_apportionment275:
+    name: LPR:72436
+    apportionment: 0.1555620129673131
+  stream_response:
+  - LPR:72436
+  dd_response: []
+well_72437:
+  name: '72437'
+  status: existing
+  loc:
+    x: 89.3883834
+    y: 44.44745
+  Q: 97.4
+  pumping_days: 60
+  stream_apportionment276:
+    name: LPR:72437
+    apportionment: 0.14777791162383033
+  stream_response:
+  - LPR:72437
+  dd_response: []
+well_72607:
+  name: '72607'
+  status: existing
+  loc:
+    x: 89.45185
+    y: 44.4341
+  Q: 71.3
+  pumping_days: 90
+  stream_apportionment277:
+    name: LPR:72607
+    apportionment: 0.24282589394537277
+  stream_response:
+  - LPR:72607
+  dd_response: []
+well_72610:
+  name: '72610'
+  status: existing
+  loc:
+    x: 89.47705
+    y: 44.4416
+  Q: 47.4
+  pumping_days: 90
+  stream_apportionment278:
+    name: LPR:72610
+    apportionment: 0.48849713373363723
+  stream_response:
+  - LPR:72610
+  dd_response: []
+well_72713:
+  name: '72713'
+  status: existing
+  loc:
+    x: 89.42575
+    y: 44.4838333
+  Q: 8.2
+  pumping_days: 365
+  stream_apportionment279:
+    name: LPR:72713
+    apportionment: 0.4712484484829654
+  stream_response:
+  - LPR:72713
+  dd_response: []
+well_72756:
+  name: '72756'
+  status: existing
+  loc:
+    x: 89.4587
+    y: 44.5124667
+  Q: 0.5
+  pumping_days: 365
+  stream_apportionment280:
+    name: LPR:72756
+    apportionment: 0.3519022296284035
+  stream_response:
+  - LPR:72756
+  dd_response: []
+well_72983:
+  name: '72983'
+  status: existing
+  loc:
+    x: 89.4182167
+    y: 44.5265833
+  Q: 2.7
+  pumping_days: 30
+  stream_apportionment281:
+    name: LPR:72983
+    apportionment: 0.215439265865974
+  stream_response:
+  - LPR:72983
+  dd_response: []
+well_73153:
+  name: '73153'
+  status: existing
+  loc:
+    x: 89.3752168
+    y: 44.5109667
+  Q: 58.6
+  pumping_days: 90
+  stream_apportionment282:
+    name: LPR:73153
+    apportionment: 0.20450809652996613
+  stream_response:
+  - LPR:73153
+  dd_response: []
+well_73262:
+  name: '73262'
+  status: existing
+  loc:
+    x: 89.290945
+    y: 44.4615
+  Q: 90.0
+  pumping_days: 90
+  stream_apportionment283:
+    name: LPR:73262
+    apportionment: 0.04943583790881745
+  stream_response:
+  - LPR:73262
+  dd_response: []
+well_73280:
+  name: '73280'
+  status: existing
+  loc:
+    x: 89.4751542
+    y: 44.5246344
+  Q: 0.6
+  pumping_days: 150
+  stream_apportionment284:
+    name: LPR:73280
+    apportionment: 0.3420236710386632
+  stream_response:
+  - LPR:73280
+  dd_response: []
+well_73281:
+  name: '73281'
+  status: existing
+  loc:
+    x: 89.4789501
+    y: 44.5231833
+  Q: 128.0
+  pumping_days: 60
+  stream_apportionment285:
+    name: LPR:73281
+    apportionment: 0.3497038624229526
+  stream_response:
+  - LPR:73281
+  dd_response: []
+well_73372:
+  name: '73372'
+  status: existing
+  loc:
+    x: 89.3651
+    y: 44.4958833
+  Q: 7.6
+  pumping_days: 365
+  stream_apportionment286:
+    name: LPR:73372
+    apportionment: 0.2012507814531159
+  stream_response:
+  - LPR:73372
+  dd_response: []
+well_73440:
+  name: '73440'
+  status: existing
+  loc:
+    x: 89.4059
+    y: 44.4189
+  Q: 72.9
+  pumping_days: 90
+  stream_apportionment287:
+    name: LPR:73440
+    apportionment: 0.11827298936285134
+  stream_response:
+  - LPR:73440
+  dd_response: []
+well_73481:
+  name: '73481'
+  status: existing
+  loc:
+    x: 89.4648833
+    y: 44.4224
+  Q: 85.1
+  pumping_days: 120
+  stream_apportionment288:
+    name: LPR:73481
+    apportionment: 0.18854001296115266
+  stream_response:
+  - LPR:73481
+  dd_response: []
+well_73715:
+  name: '73715'
+  status: existing
+  loc:
+    x: 89.4443333
+    y: 44.4828
+  Q: 64.2
+  pumping_days: 120
+  stream_apportionment289:
+    name: LPR:73715
+    apportionment: 0.6113610502658782
+  stream_response:
+  - LPR:73715
+  dd_response: []
+well_73737:
+  name: '73737'
+  status: existing
+  loc:
+    x: 89.4011
+    y: 44.3828
+  Q: 9.4
+  pumping_days: 30
+  stream_apportionment290:
+    name: LPR:73737
+    apportionment: 0.14773395506315692
+  stream_response:
+  - LPR:73737
+  dd_response: []
+well_73761:
+  name: '73761'
+  status: existing
+  loc:
+    x: 89.42726
+    y: 44.48318
+  Q: 0.4
+  pumping_days: 240
+  stream_apportionment291:
+    name: LPR:73761
+    apportionment: 0.48307451960283104
+  stream_response:
+  - LPR:73761
+  dd_response: []
+well_73762:
+  name: '73762'
+  status: existing
+  loc:
+    x: 89.431
+    y: 44.4871
+  Q: 175.9
+  pumping_days: 150
+  stream_apportionment292:
+    name: LPR:73762
+    apportionment: 0.5127644034811172
+  stream_response:
+  - LPR:73762
+  dd_response: []
+well_73906:
+  name: '73906'
+  status: existing
+  loc:
+    x: 89.3568841
+    y: 44.4772
+  Q: 6.9
+  pumping_days: 365
+  stream_apportionment293:
+    name: LPR:73906
+    apportionment: 0.1840926012478962
+  stream_response:
+  - LPR:73906
+  dd_response: []
+well_73940:
+  name: '73940'
+  status: existing
+  loc:
+    x: 89.39857
+    y: 44.4331272
+  Q: 0.1
+  pumping_days: 365
+  stream_apportionment294:
+    name: LPR:73940
+    apportionment: 0.11157465586744117
+  stream_response:
+  - LPR:73940
+  dd_response: []
+well_73942:
+  name: '73942'
+  status: existing
+  loc:
+    x: 89.3999333
+    y: 44.43299
+  Q: 62.0
+  pumping_days: 30
+  stream_apportionment295:
+    name: LPR:73942
+    apportionment: 0.11565215212598182
+  stream_response:
+  - LPR:73942
+  dd_response: []
+well_74131:
+  name: '74131'
+  status: existing
+  loc:
+    x: 89.34489
+    y: 44.4864
+  Q: 124.9
+  pumping_days: 120
+  stream_apportionment296:
+    name: LPR:74131
+    apportionment: 0.03662162965478181
+  stream_response:
+  - LPR:74131
+  dd_response: []
+well_74280:
+  name: '74280'
+  status: existing
+  loc:
+    x: 89.4134
+    y: 44.5861
+  Q: 20.8
+  pumping_days: 90
+  stream_apportionment297:
+    name: LPR:74280
+    apportionment: 0.11205530220704993
+  stream_response:
+  - LPR:74280
+  dd_response: []
+well_84404:
+  name: '84404'
+  status: existing
+  loc:
+    x: 89.5161642
+    y: 44.4305535
+  Q: 5.0
+  pumping_days: 300
+  stream_apportionment298:
+    name: LPR:84404
+    apportionment: 0.24560102906256978
+  stream_response:
+  - LPR:84404
+  dd_response: []
+well_84409:
+  name: '84409'
+  status: existing
+  loc:
+    x: 89.5059499
+    y: 44.4558641
+  Q: 2.4
+  pumping_days: 150
+  stream_apportionment299:
+    name: LPR:84409
+    apportionment: 0.7217407233869233
+  stream_response:
+  - LPR:84409
+  dd_response: []
+well_84411:
+  name: '84411'
+  status: existing
+  loc:
+    x: 89.5059499
+    y: 44.4558641
+  Q: 40.1
+  pumping_days: 120
+  stream_apportionment300:
+    name: LPR:84411
+    apportionment: 0.7217407233869233
+  stream_response:
+  - LPR:84411
+  dd_response: []
+well_91103:
+  name: '91103'
+  status: existing
+  loc:
+    x: 89.3868
+    y: 44.4022
+  Q: 127.8
+  pumping_days: 120
+  stream_apportionment301:
+    name: LPR:91103
+    apportionment: 0.08652014381984474
+  stream_response:
+  - LPR:91103
+  dd_response: []
+well_91173:
+  name: '91173'
+  status: existing
+  loc:
+    x: 89.4335
+    y: 44.5363
+  Q: 62.8
+  pumping_days: 60
+  stream_apportionment302:
+    name: LPR:91173
+    apportionment: 0.17761265410476923
+  stream_response:
+  - LPR:91173
+  dd_response: []
+well_91808:
+  name: '91808'
+  status: existing
+  loc:
+    x: 89.3079
+    y: 44.4759
+  Q: 49.4
+  pumping_days: 90
+  stream_apportionment303:
+    name: LPR:91808
+    apportionment: 0.055905898432203026
+  stream_response:
+  - LPR:91808
+  dd_response: []
+well_91996:
+  name: '91996'
+  status: existing
+  loc:
+    x: 89.3322
+    y: 44.4557
+  Q: 12.6
+  pumping_days: 365
+  stream_apportionment304:
+    name: LPR:91996
+    apportionment: 0.10171557914631836
+  stream_response:
+  - LPR:91996
+  dd_response: []
+well_91997:
+  name: '91997'
+  status: existing
+  loc:
+    x: 89.3377
+    y: 44.4555
+  Q: 287.7
+  pumping_days: 120
+  stream_apportionment305:
+    name: LPR:91997
+    apportionment: 0.10641907829746736
+  stream_response:
+  - LPR:91997
+  dd_response: []
+well_92099:
+  name: '92099'
+  status: existing
+  loc:
+    x: 89.43
+    y: 44.4009
+  Q: 37.7
+  pumping_days: 90
+  stream_apportionment306:
+    name: LPR:92099
+    apportionment: 0.1009587679299053
+  stream_response:
+  - LPR:92099
+  dd_response: []
+well_92184:
+  name: '92184'
+  status: existing
+  loc:
+    x: 89.4421
+    y: 44.4113
+  Q: 153.1
+  pumping_days: 240
+  stream_apportionment307:
+    name: LPR:92184
+    apportionment: 0.13339697477063284
+  stream_response:
+  - LPR:92184
+  dd_response: []
+well_92299:
+  name: '92299'
+  status: existing
+  loc:
+    x: 89.31969
+    y: 44.45668
+  Q: 93.0
+  pumping_days: 30
+  stream_apportionment308:
+    name: LPR:92299
+    apportionment: 0.09517088932893059
+  stream_response:
+  - LPR:92299
+  dd_response: []
+well_92696:
+  name: '92696'
+  status: existing
+  loc:
+    x: 89.28806
+    y: 44.45703
+  Q: 11.6
+  pumping_days: 60
+  stream_apportionment309:
+    name: LPR:92696
+    apportionment: 0.028432598153366784
+  stream_response:
+  - LPR:92696
+  dd_response: []
+well_92714:
+  name: '92714'
+  status: existing
+  loc:
+    x: 89.40213
+    y: 44.43157
+  Q: 0.1
+  pumping_days: 365
+  stream_apportionment310:
+    name: LPR:92714
+    apportionment: 0.12092873458250906
+  stream_response:
+  - LPR:92714
+  dd_response: []
+well_92724:
+  name: '92724'
+  status: existing
+  loc:
+    x: 89.30183
+    y: 44.4538
+  Q: 0.6
+  pumping_days: 330
+  stream_apportionment311:
+    name: LPR:92724
+    apportionment: 0.05593969769414354
+  stream_response:
+  - LPR:92724
+  dd_response: []
+well_92743:
+  name: '92743'
+  status: existing
+  loc:
+    x: 89.301241
+    y: 44.463364
+  Q: 126.5
+  pumping_days: 90
+  stream_apportionment312:
+    name: LPR:92743
+    apportionment: 0.07286580861265209
+  stream_response:
+  - LPR:92743
+  dd_response: []
+well_92808:
+  name: '92808'
+  status: existing
+  loc:
+    x: 89.3837
+    y: 44.5422
+  Q: 53.4
+  pumping_days: 90
+  stream_apportionment313:
+    name: LPR:92808
+    apportionment: 0.1257831830644455
+  stream_response:
+  - LPR:92808
+  dd_response: []
+well_92885:
+  name: '92885'
+  status: existing
+  loc:
+    x: 89.4075
+    y: 44.5013
+  Q: 12.1
+  pumping_days: 210
+  stream_apportionment314:
+    name: LPR:92885
+    apportionment: 0.27326494621306513
+  stream_response:
+  - LPR:92885
+  dd_response: []
+well_92981:
+  name: '92981'
+  status: existing
+  loc:
+    x: 89.456738
+    y: 44.578466
+  Q: 41.7
+  pumping_days: 60
+  stream_apportionment315:
+    name: LPR:92981
+    apportionment: 0.08955073979290364
+  stream_response:
+  - LPR:92981
+  dd_response: []
+well_93142:
+  name: '93142'
+  status: existing
+  loc:
+    x: 89.527393
+    y: 44.448782
+  Q: 8.5
+  pumping_days: 120
+  stream_apportionment316:
+    name: LPR:93142
+    apportionment: 0.37815056288097065
+  stream_response:
+  - LPR:93142
+  dd_response: []
+well_93143:
+  name: '93143'
+  status: existing
+  loc:
+    x: 89.528487
+    y: 44.450128
+  Q: 0.6
+  pumping_days: 150
+  stream_apportionment317:
+    name: LPR:93143
+    apportionment: 0.38039922371855656
+  stream_response:
+  - LPR:93143
+  dd_response: []
+well_93349:
+  name: '93349'
+  status: existing
+  loc:
+    x: 89.50594
+    y: 44.41965
+  Q: 27.2
+  pumping_days: 90
+  stream_apportionment318:
+    name: LPR:93349
+    apportionment: 0.2268191941424869
+  stream_response:
+  - LPR:93349
+  dd_response: []
+well_93422:
+  name: '93422'
+  status: existing
+  loc:
+    x: 89.30981
+    y: 44.47068
+  Q: 0.1
+  pumping_days: 365
+  stream_apportionment319:
+    name: LPR:93422
+    apportionment: 0.06345010990840348
+  stream_response:
+  - LPR:93422
+  dd_response: []
+well_93423:
+  name: '93423'
+  status: existing
+  loc:
+    x: 89.31012
+    y: 44.4719
+  Q: 0.1
+  pumping_days: 365
+  stream_apportionment320:
+    name: LPR:93423
+    apportionment: 0.06343943410732299
+  stream_response:
+  - LPR:93423
+  dd_response: []
+well_93424:
+  name: '93424'
+  status: existing
+  loc:
+    x: 89.31082
+    y: 44.47132
+  Q: 0.2
+  pumping_days: 210
+  stream_apportionment321:
+    name: LPR:93424
+    apportionment: 0.06606574802595284
+  stream_response:
+  - LPR:93424
+  dd_response: []
+well_93469:
+  name: '93469'
+  status: existing
+  loc:
+    x: 89.4464
+    y: 44.4697
+  Q: 158.2
+  pumping_days: 60
+  stream_apportionment322:
+    name: LPR:93469
+    apportionment: 0.5866852132337754
+  stream_response:
+  - LPR:93469
+  dd_response: []
+well_93832:
+  name: '93832'
+  status: existing
+  loc:
+    x: 89.2977
+    y: 44.4647
+  Q: 14.6
+  pumping_days: 60
+  stream_apportionment323:
+    name: LPR:93832
+    apportionment: 0.07030637516280734
+  stream_response:
+  - LPR:93832
+  dd_response: []
+well_94302:
+  name: '94302'
+  status: existing
+  loc:
+    x: 89.4835
+    y: 44.4976
+  Q: 148.9
+  pumping_days: 120
+  stream_apportionment324:
+    name: LPR:94302
+    apportionment: 0.7280264108812761
+  stream_response:
+  - LPR:94302
+  dd_response: []
+well_94988:
+  name: '94988'
+  status: existing
+  loc:
+    x: 89.396869
+    y: 44.545632
+  Q: 11.1
+  pumping_days: 180
+  stream_apportionment325:
+    name: LPR:94988
+    apportionment: 0.14514257994634408
+  stream_response:
+  - LPR:94988
+  dd_response: []
+well_95068:
+  name: '95068'
+  status: existing
+  loc:
+    x: 89.4462
+    y: 44.4198
+  Q: 40.3
+  pumping_days: 30
+  stream_apportionment326:
+    name: LPR:95068
+    apportionment: 0.1643211293822576
+  stream_response:
+  - LPR:95068
+  dd_response: []
+dd_response0:
+  name: LakeEmily
+  loc:
+    x: 89.33613
+    y: 44.47088
+stream_response0:
+  name: LPR:418
+  loc:
+    x: 89.487683
+    y: 44.46808
+stream_response1:
+  name: LPR:466
+  loc:
+    x: 89.49359
+    y: 44.46865
+stream_response2:
+  name: LPR:467
+  loc:
+    x: 89.49359
+    y: 44.46865
+stream_response3:
+  name: LPR:490
+  loc:
+    x: 89.48165
+    y: 44.4727
+stream_response4:
+  name: LPR:509
+  loc:
+    x: 89.47961
+    y: 44.47533
+stream_response5:
+  name: LPR:602
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response6:
+  name: LPR:603
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response7:
+  name: LPR:798
+  loc:
+    x: 89.48492
+    y: 44.46862
+stream_response8:
+  name: LPR:807
+  loc:
+    x: 89.48846
+    y: 44.4683
+stream_response9:
+  name: LPR:850
+  loc:
+    x: 89.47953
+    y: 44.47545
+stream_response10:
+  name: LPR:862
+  loc:
+    x: 89.47961
+    y: 44.47533
+stream_response11:
+  name: LPR:1013
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response12:
+  name: LPR:1302
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response13:
+  name: LPR:1323
+  loc:
+    x: 89.47953
+    y: 44.4757
+stream_response14:
+  name: LPR:1486
+  loc:
+    x: 89.47953
+    y: 44.4757
+stream_response15:
+  name: LPR:1584
+  loc:
+    x: 89.47953
+    y: 44.4757
+stream_response16:
+  name: LPR:1589
+  loc:
+    x: 89.48663
+    y: 44.46802
+stream_response17:
+  name: LPR:1643
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response18:
+  name: LPR:1683
+  loc:
+    x: 89.48663
+    y: 44.46802
+stream_response19:
+  name: LPR:1860
+  loc:
+    x: 89.47973
+    y: 44.47577
+stream_response20:
+  name: LPR:2544
+  loc:
+    x: 89.4794
+    y: 44.48254
+stream_response21:
+  name: LPR:2750
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response22:
+  name: LPR:2886
+  loc:
+    x: 89.51417
+    y: 44.47067
+stream_response23:
+  name: LPR:3473
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response24:
+  name: LPR:3949
+  loc:
+    x: 89.47993
+    y: 44.48272
+stream_response25:
+  name: LPR:4171
+  loc:
+    x: 89.47993
+    y: 44.48272
+stream_response26:
+  name: LPR:23610
+  loc:
+    x: 89.48286
+    y: 44.4693
+stream_response27:
+  name: LPR:23611
+  loc:
+    x: 89.51706
+    y: 44.47187
+stream_response28:
+  name: LPR:23618
+  loc:
+    x: 89.51706
+    y: 44.47187
+stream_response29:
+  name: LPR:23620
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response30:
+  name: LPR:23627
+  loc:
+    x: 89.4809
+    y: 44.47369
+stream_response31:
+  name: LPR:23629
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response32:
+  name: LPR:23630
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response33:
+  name: LPR:23631
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response34:
+  name: LPR:23635
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response35:
+  name: LPR:23637
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response36:
+  name: LPR:23638
+  loc:
+    x: 89.47979
+    y: 44.47554
+stream_response37:
+  name: LPR:23639
+  loc:
+    x: 89.51883
+    y: 44.47174
+stream_response38:
+  name: LPR:23645
+  loc:
+    x: 89.51362
+    y: 44.47044
+stream_response39:
+  name: LPR:23646
+  loc:
+    x: 89.51362
+    y: 44.47044
+stream_response40:
+  name: LPR:23648
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response41:
+  name: LPR:23653
+  loc:
+    x: 89.49961
+    y: 44.46871
+stream_response42:
+  name: LPR:23695
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response43:
+  name: LPR:23697
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response44:
+  name: LPR:23698
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response45:
+  name: LPR:23699
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response46:
+  name: LPR:23700
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response47:
+  name: LPR:23709
+  loc:
+    x: 89.47973
+    y: 44.47577
+stream_response48:
+  name: LPR:23710
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response49:
+  name: LPR:23715
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response50:
+  name: LPR:23716
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response51:
+  name: LPR:23720
+  loc:
+    x: 89.53264
+    y: 44.47247
+stream_response52:
+  name: LPR:23721
+  loc:
+    x: 89.53264
+    y: 44.47247
+stream_response53:
+  name: LPR:23722
+  loc:
+    x: 89.4872
+    y: 44.46768
+stream_response54:
+  name: LPR:23723
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response55:
+  name: LPR:23726
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response56:
+  name: LPR:23727
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response57:
+  name: LPR:23728
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response58:
+  name: LPR:23729
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response59:
+  name: LPR:23751
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response60:
+  name: LPR:23752
+  loc:
+    x: 89.4825
+    y: 44.47
+stream_response61:
+  name: LPR:23753
+  loc:
+    x: 89.4825
+    y: 44.47
+stream_response62:
+  name: LPR:23754
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response63:
+  name: LPR:23755
+  loc:
+    x: 89.48739
+    y: 44.46807
+stream_response64:
+  name: LPR:23756
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response65:
+  name: LPR:23757
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response66:
+  name: LPR:23758
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response67:
+  name: LPR:23770
+  loc:
+    x: 89.50516
+    y: 44.47075
+stream_response68:
+  name: LPR:23776
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response69:
+  name: LPR:23778
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response70:
+  name: LPR:23781
+  loc:
+    x: 89.47991
+    y: 44.48269
+stream_response71:
+  name: LPR:23790
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response72:
+  name: LPR:23791
+  loc:
+    x: 89.53228
+    y: 44.47278
+stream_response73:
+  name: LPR:23794
+  loc:
+    x: 89.47973
+    y: 44.48232
+stream_response74:
+  name: LPR:23795
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response75:
+  name: LPR:23798
+  loc:
+    x: 89.48772
+    y: 44.46734
+stream_response76:
+  name: LPR:23800
+  loc:
+    x: 89.4798
+    y: 44.48252
+stream_response77:
+  name: LPR:23807
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response78:
+  name: LPR:23816
+  loc:
+    x: 89.50255
+    y: 44.46917
+stream_response79:
+  name: LPR:23818
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response80:
+  name: LPR:23820
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response81:
+  name: LPR:23823
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response82:
+  name: LPR:23836
+  loc:
+    x: 89.49202
+    y: 44.46793
+stream_response83:
+  name: LPR:23837
+  loc:
+    x: 89.49202
+    y: 44.46793
+stream_response84:
+  name: LPR:23846
+  loc:
+    x: 89.47973
+    y: 44.47577
+stream_response85:
+  name: LPR:23847
+  loc:
+    x: 89.48004
+    y: 44.48255
+stream_response86:
+  name: LPR:23848
+  loc:
+    x: 89.48004
+    y: 44.48255
+stream_response87:
+  name: LPR:23851
+  loc:
+    x: 89.49767
+    y: 44.46886
+stream_response88:
+  name: LPR:23864
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response89:
+  name: LPR:23865
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response90:
+  name: LPR:23866
+  loc:
+    x: 89.48701
+    y: 44.46824
+stream_response91:
+  name: LPR:23867
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response92:
+  name: LPR:23868
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response93:
+  name: LPR:23869
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response94:
+  name: LPR:23870
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response95:
+  name: LPR:23876
+  loc:
+    x: 89.47987
+    y: 44.48254
+stream_response96:
+  name: LPR:23881
+  loc:
+    x: 89.47987
+    y: 44.48254
+stream_response97:
+  name: LPR:23883
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response98:
+  name: LPR:23886
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response99:
+  name: LPR:23888
+  loc:
+    x: 89.48658
+    y: 44.46809
+stream_response100:
+  name: LPR:23889
+  loc:
+    x: 89.48658
+    y: 44.46809
+stream_response101:
+  name: LPR:23890
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response102:
+  name: LPR:23895
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response103:
+  name: LPR:23898
+  loc:
+    x: 89.47953
+    y: 44.47545
+stream_response104:
+  name: LPR:23908
+  loc:
+    x: 89.47987
+    y: 44.48233
+stream_response105:
+  name: LPR:23909
+  loc:
+    x: 89.48658
+    y: 44.46809
+stream_response106:
+  name: LPR:23910
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response107:
+  name: LPR:23913
+  loc:
+    x: 89.47968
+    y: 44.47763
+stream_response108:
+  name: LPR:23915
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response109:
+  name: LPR:23919
+  loc:
+    x: 89.52232
+    y: 44.47323
+stream_response110:
+  name: LPR:23926
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response111:
+  name: LPR:23928
+  loc:
+    x: 89.48624
+    y: 44.46823
+stream_response112:
+  name: LPR:23929
+  loc:
+    x: 89.4798
+    y: 44.48249
+stream_response113:
+  name: LPR:23930
+  loc:
+    x: 89.48762
+    y: 44.46776
+stream_response114:
+  name: LPR:23934
+  loc:
+    x: 89.47984
+    y: 44.4826
+stream_response115:
+  name: LPR:23936
+  loc:
+    x: 89.47975
+    y: 44.48254
+stream_response116:
+  name: LPR:23937
+  loc:
+    x: 89.48923
+    y: 44.46788
+stream_response117:
+  name: LPR:23939
+  loc:
+    x: 89.47999
+    y: 44.48245
+stream_response118:
+  name: LPR:23942
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response119:
+  name: LPR:23944
+  loc:
+    x: 89.47999
+    y: 44.48245
+stream_response120:
+  name: LPR:23948
+  loc:
+    x: 89.48688
+    y: 44.4676
+stream_response121:
+  name: LPR:23956
+  loc:
+    x: 89.48688
+    y: 44.4676
+stream_response122:
+  name: LPR:23961
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response123:
+  name: LPR:23962
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response124:
+  name: LPR:23963
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response125:
+  name: LPR:23966
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response126:
+  name: LPR:23967
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response127:
+  name: LPR:23972
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response128:
+  name: LPR:23977
+  loc:
+    x: 89.48688
+    y: 44.4676
+stream_response129:
+  name: LPR:23978
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response130:
+  name: LPR:23979
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response131:
+  name: LPR:23980
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response132:
+  name: LPR:23981
+  loc:
+    x: 89.49221
+    y: 44.46817
+stream_response133:
+  name: LPR:23983
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response134:
+  name: LPR:23984
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response135:
+  name: LPR:23985
+  loc:
+    x: 89.49221
+    y: 44.46817
+stream_response136:
+  name: LPR:23987
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response137:
+  name: LPR:23998
+  loc:
+    x: 89.47953
+    y: 44.47545
+stream_response138:
+  name: LPR:24003
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response139:
+  name: LPR:24005
+  loc:
+    x: 89.48688
+    y: 44.4676
+stream_response140:
+  name: LPR:24010
+  loc:
+    x: 89.47988
+    y: 44.48263
+stream_response141:
+  name: LPR:24011
+  loc:
+    x: 89.47925
+    y: 44.48208
+stream_response142:
+  name: LPR:24012
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response143:
+  name: LPR:24016
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response144:
+  name: LPR:24024
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response145:
+  name: LPR:24030
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response146:
+  name: LPR:24033
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response147:
+  name: LPR:24036
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response148:
+  name: LPR:24037
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response149:
+  name: LPR:24042
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response150:
+  name: LPR:24043
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response151:
+  name: LPR:24045
+  loc:
+    x: 89.50239
+    y: 44.46914
+stream_response152:
+  name: LPR:24047
+  loc:
+    x: 89.47963
+    y: 44.48244
+stream_response153:
+  name: LPR:24049
+  loc:
+    x: 89.50239
+    y: 44.46914
+stream_response154:
+  name: LPR:24059
+  loc:
+    x: 89.47963
+    y: 44.48244
+stream_response155:
+  name: LPR:24063
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response156:
+  name: LPR:24066
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response157:
+  name: LPR:24080
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response158:
+  name: LPR:24091
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response159:
+  name: LPR:24093
+  loc:
+    x: 89.4798
+    y: 44.48262
+stream_response160:
+  name: LPR:24110
+  loc:
+    x: 89.4798
+    y: 44.48262
+stream_response161:
+  name: LPR:24120
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response162:
+  name: LPR:24121
+  loc:
+    x: 89.4798
+    y: 44.48262
+stream_response163:
+  name: LPR:24125
+  loc:
+    x: 89.48684
+    y: 44.46781
+stream_response164:
+  name: LPR:24130
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response165:
+  name: LPR:24135
+  loc:
+    x: 89.52299
+    y: 44.47364
+stream_response166:
+  name: LPR:24137
+  loc:
+    x: 89.47982
+    y: 44.4823
+stream_response167:
+  name: LPR:24165
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response168:
+  name: LPR:24166
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response169:
+  name: LPR:24169
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response170:
+  name: LPR:24172
+  loc:
+    x: 89.48684
+    y: 44.46781
+stream_response171:
+  name: LPR:24195
+  loc:
+    x: 89.47973
+    y: 44.47577
+stream_response172:
+  name: LPR:24197
+  loc:
+    x: 89.47985
+    y: 44.47791
+stream_response173:
+  name: LPR:24203
+  loc:
+    x: 89.47988
+    y: 44.48263
+stream_response174:
+  name: LPR:24216
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response175:
+  name: LPR:24225
+  loc:
+    x: 89.48672
+    y: 44.46674
+stream_response176:
+  name: LPR:24226
+  loc:
+    x: 89.47978
+    y: 44.4824
+stream_response177:
+  name: LPR:24227
+  loc:
+    x: 89.48684
+    y: 44.46781
+stream_response178:
+  name: LPR:24239
+  loc:
+    x: 89.49713
+    y: 44.46928
+stream_response179:
+  name: LPR:24240
+  loc:
+    x: 89.48334
+    y: 44.46925
+stream_response180:
+  name: LPR:24247
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response181:
+  name: LPR:24249
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response182:
+  name: LPR:24252
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response183:
+  name: LPR:24253
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response184:
+  name: LPR:24256
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response185:
+  name: LPR:24265
+  loc:
+    x: 89.47953
+    y: 44.4828
+stream_response186:
+  name: LPR:24266
+  loc:
+    x: 89.51167
+    y: 44.4698
+stream_response187:
+  name: LPR:24274
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response188:
+  name: LPR:24279
+  loc:
+    x: 89.47978
+    y: 44.48246
+stream_response189:
+  name: LPR:24283
+  loc:
+    x: 89.52299
+    y: 44.47364
+stream_response190:
+  name: LPR:24285
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response191:
+  name: LPR:24286
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response192:
+  name: LPR:24291
+  loc:
+    x: 89.48684
+    y: 44.46781
+stream_response193:
+  name: LPR:24293
+  loc:
+    x: 89.50239
+    y: 44.46914
+stream_response194:
+  name: LPR:24294
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response195:
+  name: LPR:24302
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response196:
+  name: LPR:24305
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response197:
+  name: LPR:24307
+  loc:
+    x: 89.48713
+    y: 44.4679
+stream_response198:
+  name: LPR:24311
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response199:
+  name: LPR:24317
+  loc:
+    x: 89.52299
+    y: 44.47364
+stream_response200:
+  name: LPR:24323
+  loc:
+    x: 89.50249
+    y: 44.46939
+stream_response201:
+  name: LPR:58403
+  loc:
+    x: 89.47975
+    y: 44.48241
+stream_response202:
+  name: LPR:58405
+  loc:
+    x: 89.51342
+    y: 44.47038
+stream_response203:
+  name: LPR:58406
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response204:
+  name: LPR:58407
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response205:
+  name: LPR:58410
+  loc:
+    x: 89.48334
+    y: 44.46925
+stream_response206:
+  name: LPR:58411
+  loc:
+    x: 89.48713
+    y: 44.4679
+stream_response207:
+  name: LPR:58414
+  loc:
+    x: 89.47975
+    y: 44.48241
+stream_response208:
+  name: LPR:58416
+  loc:
+    x: 89.47975
+    y: 44.48241
+stream_response209:
+  name: LPR:58424
+  loc:
+    x: 89.48757
+    y: 44.46768
+stream_response210:
+  name: LPR:58433
+  loc:
+    x: 89.48334
+    y: 44.46925
+stream_response211:
+  name: LPR:58434
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response212:
+  name: LPR:67673
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response213:
+  name: LPR:67895
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response214:
+  name: LPR:68008
+  loc:
+    x: 89.51342
+    y: 44.47038
+stream_response215:
+  name: LPR:68216
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response216:
+  name: LPR:68218
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response217:
+  name: LPR:68219
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response218:
+  name: LPR:68220
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response219:
+  name: LPR:68221
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response220:
+  name: LPR:68294
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response221:
+  name: LPR:68475
+  loc:
+    x: 89.48334
+    y: 44.46925
+stream_response222:
+  name: LPR:68529
+  loc:
+    x: 89.47982
+    y: 44.47996
+stream_response223:
+  name: LPR:68693
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response224:
+  name: LPR:68695
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response225:
+  name: LPR:68872
+  loc:
+    x: 89.51167
+    y: 44.4698
+stream_response226:
+  name: LPR:68917
+  loc:
+    x: 89.47968
+    y: 44.4822
+stream_response227:
+  name: LPR:68925
+  loc:
+    x: 89.47928
+    y: 44.48256
+stream_response228:
+  name: LPR:68926
+  loc:
+    x: 89.47928
+    y: 44.48256
+stream_response229:
+  name: LPR:69049
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response230:
+  name: LPR:69065
+  loc:
+    x: 89.48713
+    y: 44.4679
+stream_response231:
+  name: LPR:69282
+  loc:
+    x: 89.48315
+    y: 44.46947
+stream_response232:
+  name: LPR:69288
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response233:
+  name: LPR:69289
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response234:
+  name: LPR:69480
+  loc:
+    x: 89.47978
+    y: 44.47598
+stream_response235:
+  name: LPR:69508
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response236:
+  name: LPR:69576
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response237:
+  name: LPR:69635
+  loc:
+    x: 89.48007
+    y: 44.48205
+stream_response238:
+  name: LPR:69636
+  loc:
+    x: 89.48007
+    y: 44.48205
+stream_response239:
+  name: LPR:69638
+  loc:
+    x: 89.48007
+    y: 44.48205
+stream_response240:
+  name: LPR:69669
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response241:
+  name: LPR:69970
+  loc:
+    x: 89.49713
+    y: 44.46928
+stream_response242:
+  name: LPR:69990
+  loc:
+    x: 89.47976
+    y: 44.48265
+stream_response243:
+  name: LPR:70119
+  loc:
+    x: 89.52004
+    y: 44.472
+stream_response244:
+  name: LPR:70120
+  loc:
+    x: 89.47984
+    y: 44.48247
+stream_response245:
+  name: LPR:70186
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response246:
+  name: LPR:70191
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response247:
+  name: LPR:70263
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response248:
+  name: LPR:70517
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response249:
+  name: LPR:70519
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response250:
+  name: LPR:70520
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response251:
+  name: LPR:70548
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response252:
+  name: LPR:70881
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response253:
+  name: LPR:70961
+  loc:
+    x: 89.47968
+    y: 44.4822
+stream_response254:
+  name: LPR:70974
+  loc:
+    x: 89.47968
+    y: 44.4822
+stream_response255:
+  name: LPR:70975
+  loc:
+    x: 89.47968
+    y: 44.4822
+stream_response256:
+  name: LPR:71044
+  loc:
+    x: 89.47982
+    y: 44.4824
+stream_response257:
+  name: LPR:71062
+  loc:
+    x: 89.48578
+    y: 44.46888
+stream_response258:
+  name: LPR:71063
+  loc:
+    x: 89.48713
+    y: 44.4679
+stream_response259:
+  name: LPR:71109
+  loc:
+    x: 89.47982
+    y: 44.4824
+stream_response260:
+  name: LPR:71110
+  loc:
+    x: 89.47982
+    y: 44.4824
+stream_response261:
+  name: LPR:71117
+  loc:
+    x: 89.48663
+    y: 44.46802
+stream_response262:
+  name: LPR:71156
+  loc:
+    x: 89.47953
+    y: 44.47545
+stream_response263:
+  name: LPR:71199
+  loc:
+    x: 89.47997
+    y: 44.48257
+stream_response264:
+  name: LPR:71495
+  loc:
+    x: 89.4877
+    y: 44.4681
+stream_response265:
+  name: LPR:71935
+  loc:
+    x: 89.47978
+    y: 44.48246
+stream_response266:
+  name: LPR:71998
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response267:
+  name: LPR:72082
+  loc:
+    x: 89.49807
+    y: 44.46865
+stream_response268:
+  name: LPR:72094
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response269:
+  name: LPR:72095
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response270:
+  name: LPR:72269
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response271:
+  name: LPR:72301
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response272:
+  name: LPR:72304
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response273:
+  name: LPR:72421
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response274:
+  name: LPR:72422
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response275:
+  name: LPR:72436
+  loc:
+    x: 89.48242
+    y: 44.46946
+stream_response276:
+  name: LPR:72437
+  loc:
+    x: 89.48242
+    y: 44.46946
+stream_response277:
+  name: LPR:72607
+  loc:
+    x: 89.48713
+    y: 44.4679
+stream_response278:
+  name: LPR:72610
+  loc:
+    x: 89.48833
+    y: 44.46795
+stream_response279:
+  name: LPR:72713
+  loc:
+    x: 89.48002
+    y: 44.48248
+stream_response280:
+  name: LPR:72756
+  loc:
+    x: 89.47977
+    y: 44.48246
+stream_response281:
+  name: LPR:72983
+  loc:
+    x: 89.47973
+    y: 44.47577
+stream_response282:
+  name: LPR:73153
+  loc:
+    x: 89.47988
+    y: 44.48251
+stream_response283:
+  name: LPR:73262
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response284:
+  name: LPR:73280
+  loc:
+    x: 89.47928
+    y: 44.48256
+stream_response285:
+  name: LPR:73281
+  loc:
+    x: 89.47928
+    y: 44.48256
+stream_response286:
+  name: LPR:73372
+  loc:
+    x: 89.47968
+    y: 44.4822
+stream_response287:
+  name: LPR:73440
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response288:
+  name: LPR:73481
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response289:
+  name: LPR:73715
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response290:
+  name: LPR:73737
+  loc:
+    x: 89.48663
+    y: 44.46802
+stream_response291:
+  name: LPR:73761
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response292:
+  name: LPR:73762
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response293:
+  name: LPR:73906
+  loc:
+    x: 89.47993
+    y: 44.47651
+stream_response294:
+  name: LPR:73940
+  loc:
+    x: 89.48578
+    y: 44.46888
+stream_response295:
+  name: LPR:73942
+  loc:
+    x: 89.48578
+    y: 44.46888
+stream_response296:
+  name: LPR:74131
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response297:
+  name: LPR:74280
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response298:
+  name: LPR:84404
+  loc:
+    x: 89.51167
+    y: 44.4698
+stream_response299:
+  name: LPR:84409
+  loc:
+    x: 89.50246
+    y: 44.46923
+stream_response300:
+  name: LPR:84411
+  loc:
+    x: 89.50246
+    y: 44.46923
+stream_response301:
+  name: LPR:91103
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response302:
+  name: LPR:91173
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response303:
+  name: LPR:91808
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response304:
+  name: LPR:91996
+  loc:
+    x: 89.48258
+    y: 44.46982
+stream_response305:
+  name: LPR:91997
+  loc:
+    x: 89.48258
+    y: 44.46982
+stream_response306:
+  name: LPR:92099
+  loc:
+    x: 89.48768
+    y: 44.46785
+stream_response307:
+  name: LPR:92184
+  loc:
+    x: 89.48757
+    y: 44.46768
+stream_response308:
+  name: LPR:92299
+  loc:
+    x: 89.48258
+    y: 44.46982
+stream_response309:
+  name: LPR:92696
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response310:
+  name: LPR:92714
+  loc:
+    x: 89.48578
+    y: 44.46888
+stream_response311:
+  name: LPR:92724
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response312:
+  name: LPR:92743
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response313:
+  name: LPR:92808
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response314:
+  name: LPR:92885
+  loc:
+    x: 89.47975
+    y: 44.48241
+stream_response315:
+  name: LPR:92981
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response316:
+  name: LPR:93142
+  loc:
+    x: 89.51754
+    y: 44.4714
+stream_response317:
+  name: LPR:93143
+  loc:
+    x: 89.51754
+    y: 44.4714
+stream_response318:
+  name: LPR:93349
+  loc:
+    x: 89.51176
+    y: 44.47041
+stream_response319:
+  name: LPR:93422
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response320:
+  name: LPR:93423
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response321:
+  name: LPR:93424
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response322:
+  name: LPR:93469
+  loc:
+    x: 89.47987
+    y: 44.48152
+stream_response323:
+  name: LPR:93832
+  loc:
+    x: 89.48246
+    y: 44.47212
+stream_response324:
+  name: LPR:94302
+  loc:
+    x: 89.47985
+    y: 44.48249
+stream_response325:
+  name: LPR:94988
+  loc:
+    x: 89.47967
+    y: 44.48112
+stream_response326:
+  name: LPR:95068
+  loc:
+    x: 89.48768
+    y: 44.46785

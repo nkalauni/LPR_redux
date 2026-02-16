@@ -1,0 +1,7 @@
+depletion_potential_threshold: 0.01
+objectives: depletion_q
+pump_lbound_fraction: 0.69
+pump_ubound_fraction: 1.2
+ref_q: 8.6
+run_path: ../pycap_runs/pycap_pest/run_depletion_q
+scenario_name: depletion_q

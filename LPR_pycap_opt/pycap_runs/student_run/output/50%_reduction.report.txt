@@ -1,0 +1,3305 @@
+HiCap well analysis report, configured from: 50%_reduction.yml
+
+INDIVIDUAL PROPOSED WELL REPORTS
+##################################################
+Well Name: 418
+Well status: pending
+             **Drawdown**
+Response                      Drawdown(ft)                  
+LakeEmily                     0.0000                        
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:418                       578.0100                      
+
+
+
+INDIVIDUAL EXISTING WELL REPORTS
+##################################################
+Well Name: 466
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:466                       33099.0676                    
+##################################################
+Well Name: 467
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:467                       24838.2470                    
+##################################################
+Well Name: 490
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:490                       0.0000                        
+##################################################
+Well Name: 509
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:509                       0.0238                        
+##################################################
+Well Name: 602
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:602                       0.0000                        
+##################################################
+Well Name: 603
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:603                       0.0000                        
+##################################################
+Well Name: 798
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:798                       0.0056                        
+##################################################
+Well Name: 807
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:807                       32.6170                       
+##################################################
+Well Name: 850
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:850                       0.7866                        
+##################################################
+Well Name: 862
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:862                       5.2885                        
+##################################################
+Well Name: 1013
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1013                      0.0002                        
+##################################################
+Well Name: 1302
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1302                      0.0002                        
+##################################################
+Well Name: 1323
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1323                      5.1972                        
+##################################################
+Well Name: 1486
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1486                      661.1965                      
+##################################################
+Well Name: 1584
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1584                      3477.1586                     
+##################################################
+Well Name: 1589
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1589                      0.0972                        
+##################################################
+Well Name: 1643
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1643                      6.0069                        
+##################################################
+Well Name: 1683
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1683                      0.0078                        
+##################################################
+Well Name: 1860
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:1860                      9.0540                        
+##################################################
+Well Name: 2544
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:2544                      43.3133                       
+##################################################
+Well Name: 2750
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:2750                      0.1670                        
+##################################################
+Well Name: 2886
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:2886                      4270.8029                     
+##################################################
+Well Name: 3473
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:3473                      0.2526                        
+##################################################
+Well Name: 3949
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:3949                      202.7551                      
+##################################################
+Well Name: 4171
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:4171                      2.9293                        
+##################################################
+Well Name: 23610
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23610                     37.2321                       
+##################################################
+Well Name: 23611
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23611                     2649.3506                     
+##################################################
+Well Name: 23618
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23618                     330.6855                      
+##################################################
+Well Name: 23620
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23620                     0.0059                        
+##################################################
+Well Name: 23627
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23627                     29822.4267                    
+##################################################
+Well Name: 23629
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23629                     25.9533                       
+##################################################
+Well Name: 23630
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23630                     18.6942                       
+##################################################
+Well Name: 23631
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23631                     22.4079                       
+##################################################
+Well Name: 23635
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23635                     0.0061                        
+##################################################
+Well Name: 23637
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23637                     1.0313                        
+##################################################
+Well Name: 23638
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23638                     5299.7896                     
+##################################################
+Well Name: 23639
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23639                     566.0093                      
+##################################################
+Well Name: 23645
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23645                     6820.2548                     
+##################################################
+Well Name: 23646
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23646                     5936.6874                     
+##################################################
+Well Name: 23648
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23648                     0.0045                        
+##################################################
+Well Name: 23653
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23653                     28208.0954                    
+##################################################
+Well Name: 23695
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23695                     1.2160                        
+##################################################
+Well Name: 23697
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23697                     0.0000                        
+##################################################
+Well Name: 23698
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23698                     0.0000                        
+##################################################
+Well Name: 23699
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23699                     0.0104                        
+##################################################
+Well Name: 23700
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23700                     0.0106                        
+##################################################
+Well Name: 23709
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23709                     0.7416                        
+##################################################
+Well Name: 23710
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23710                     0.0593                        
+##################################################
+Well Name: 23715
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23715                     13.7621                       
+##################################################
+Well Name: 23716
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23716                     6.4322                        
+##################################################
+Well Name: 23720
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23720                     730.9542                      
+##################################################
+Well Name: 23721
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23721                     594.1766                      
+##################################################
+Well Name: 23722
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23722                     33.2874                       
+##################################################
+Well Name: 23723
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23723                     75.2987                       
+##################################################
+Well Name: 23726
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23726                     1.4850                        
+##################################################
+Well Name: 23727
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23727                     1.2863                        
+##################################################
+Well Name: 23728
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23728                     17.4419                       
+##################################################
+Well Name: 23729
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23729                     31.9685                       
+##################################################
+Well Name: 23751
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23751                     2.9549                        
+##################################################
+Well Name: 23752
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23752                     3159.6190                     
+##################################################
+Well Name: 23753
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23753                     889.1694                      
+##################################################
+Well Name: 23754
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23754                     0.0014                        
+##################################################
+Well Name: 23755
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23755                     33885.5506                    
+##################################################
+Well Name: 23756
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23756                     1.5837                        
+##################################################
+Well Name: 23757
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23757                     4.2139                        
+##################################################
+Well Name: 23758
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23758                     16.2193                       
+##################################################
+Well Name: 23770
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23770                     9784.1144                     
+##################################################
+Well Name: 23776
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23776                     4.9735                        
+##################################################
+Well Name: 23778
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23778                     11.1222                       
+##################################################
+Well Name: 23781
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23781                     3662.8504                     
+##################################################
+Well Name: 23790
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23790                     35.6074                       
+##################################################
+Well Name: 23791
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23791                     36.4740                       
+##################################################
+Well Name: 23794
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23794                     4522.6455                     
+##################################################
+Well Name: 23795
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23795                     0.1318                        
+##################################################
+Well Name: 23798
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23798                     200.2782                      
+##################################################
+Well Name: 23800
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23800                     2033.9263                     
+##################################################
+Well Name: 23807
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23807                     1.0904                        
+##################################################
+Well Name: 23816
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23816                     8289.0750                     
+##################################################
+Well Name: 23818
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23818                     0.0358                        
+##################################################
+Well Name: 23820
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23820                     3.0858                        
+##################################################
+Well Name: 23823
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23823                     2.3203                        
+##################################################
+Well Name: 23836
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23836                     18238.4507                    
+##################################################
+Well Name: 23837
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23837                     3282.8727                     
+##################################################
+Well Name: 23846
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23846                     18.9083                       
+##################################################
+Well Name: 23847
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23847                     984.5813                      
+##################################################
+Well Name: 23848
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23848                     656.1506                      
+##################################################
+Well Name: 23851
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23851                     2597.8657                     
+##################################################
+Well Name: 23864
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23864                     123.1201                      
+##################################################
+Well Name: 23865
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23865                     77.6332                       
+##################################################
+Well Name: 23866
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23866                     3.2797                        
+##################################################
+Well Name: 23867
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23867                     0.0427                        
+##################################################
+Well Name: 23868
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23868                     0.1388                        
+##################################################
+Well Name: 23869
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23869                     0.0342                        
+##################################################
+Well Name: 23870
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23870                     0.0741                        
+##################################################
+Well Name: 23876
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23876                     10105.7400                    
+##################################################
+Well Name: 23881
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23881                     670.0164                      
+##################################################
+Well Name: 23883
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23883                     0.0140                        
+##################################################
+Well Name: 23886
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23886                     3.1385                        
+##################################################
+Well Name: 23888
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23888                     1625.0110                     
+##################################################
+Well Name: 23889
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23889                     2803.8758                     
+##################################################
+Well Name: 23890
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23890                     1.8063                        
+##################################################
+Well Name: 23895
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23895                     53.7546                       
+##################################################
+Well Name: 23898
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23898                     0.1120                        
+##################################################
+Well Name: 23908
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23908                     646.2433                      
+##################################################
+Well Name: 23909
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23909                     392.4978                      
+##################################################
+Well Name: 23910
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23910                     20.6458                       
+##################################################
+Well Name: 23913
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23913                     0.0000                        
+##################################################
+Well Name: 23915
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23915                     0.0005                        
+##################################################
+Well Name: 23919
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23919                     3441.3210                     
+##################################################
+Well Name: 23926
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23926                     0.9981                        
+##################################################
+Well Name: 23928
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23928                     322.8945                      
+##################################################
+Well Name: 23929
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23929                     144.6151                      
+##################################################
+Well Name: 23930
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23930                     261.7764                      
+##################################################
+Well Name: 23934
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23934                     34400.0138                    
+##################################################
+Well Name: 23936
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23936                     2757.2504                     
+##################################################
+Well Name: 23937
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23937                     718.1112                      
+##################################################
+Well Name: 23939
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23939                     5637.3388                     
+##################################################
+Well Name: 23942
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23942                     13.2696                       
+##################################################
+Well Name: 23944
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23944                     0.3102                        
+##################################################
+Well Name: 23948
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23948                     276.1416                      
+##################################################
+Well Name: 23956
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23956                     26.1622                       
+##################################################
+Well Name: 23961
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23961                     0.0000                        
+##################################################
+Well Name: 23962
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23962                     7.8447                        
+##################################################
+Well Name: 23963
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23963                     0.3398                        
+##################################################
+Well Name: 23966
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23966                     0.1400                        
+##################################################
+Well Name: 23967
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23967                     4.6121                        
+##################################################
+Well Name: 23972
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23972                     31.3296                       
+##################################################
+Well Name: 23977
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23977                     303.8487                      
+##################################################
+Well Name: 23978
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23978                     0.0000                        
+##################################################
+Well Name: 23979
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23979                     0.0547                        
+##################################################
+Well Name: 23980
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23980                     0.5388                        
+##################################################
+Well Name: 23981
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23981                     798.6586                      
+##################################################
+Well Name: 23983
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23983                     24.1916                       
+##################################################
+Well Name: 23984
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23984                     195.9934                      
+##################################################
+Well Name: 23985
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23985                     851.7668                      
+##################################################
+Well Name: 23987
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23987                     49.9331                       
+##################################################
+Well Name: 23998
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:23998                     0.3693                        
+##################################################
+Well Name: 24003
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24003                     88.1338                       
+##################################################
+Well Name: 24005
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24005                     151.8197                      
+##################################################
+Well Name: 24010
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24010                     25.8135                       
+##################################################
+Well Name: 24011
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24011                     1667.8804                     
+##################################################
+Well Name: 24012
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24012                     3.6660                        
+##################################################
+Well Name: 24016
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24016                     6.8627                        
+##################################################
+Well Name: 24024
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24024                     0.0475                        
+##################################################
+Well Name: 24030
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24030                     18.4336                       
+##################################################
+Well Name: 24033
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24033                     12.6905                       
+##################################################
+Well Name: 24036
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24036                     0.2478                        
+##################################################
+Well Name: 24037
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24037                     0.0005                        
+##################################################
+Well Name: 24042
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24042                     3.3513                        
+##################################################
+Well Name: 24043
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24043                     0.0078                        
+##################################################
+Well Name: 24045
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24045                     2600.1834                     
+##################################################
+Well Name: 24047
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24047                     20.1437                       
+##################################################
+Well Name: 24049
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24049                     378.4966                      
+##################################################
+Well Name: 24059
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24059                     2.1128                        
+##################################################
+Well Name: 24063
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24063                     45.2118                       
+##################################################
+Well Name: 24066
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24066                     0.0010                        
+##################################################
+Well Name: 24080
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24080                     1.1214                        
+##################################################
+Well Name: 24091
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24091                     3.8189                        
+##################################################
+Well Name: 24093
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24093                     1.6390                        
+##################################################
+Well Name: 24110
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24110                     0.5520                        
+##################################################
+Well Name: 24120
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24120                     0.5205                        
+##################################################
+Well Name: 24121
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24121                     103.3722                      
+##################################################
+Well Name: 24125
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24125                     816.7927                      
+##################################################
+Well Name: 24130
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24130                     1.7158                        
+##################################################
+Well Name: 24135
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24135                     5.9090                        
+##################################################
+Well Name: 24137
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24137                     2119.5266                     
+##################################################
+Well Name: 24165
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24165                     56.9827                       
+##################################################
+Well Name: 24166
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24166                     37.3973                       
+##################################################
+Well Name: 24169
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24169                     0.0014                        
+##################################################
+Well Name: 24172
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24172                     70.1195                       
+##################################################
+Well Name: 24195
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24195                     0.0026                        
+##################################################
+Well Name: 24197
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24197                     1627.2203                     
+##################################################
+Well Name: 24203
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24203                     5340.7207                     
+##################################################
+Well Name: 24216
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24216                     0.0159                        
+##################################################
+Well Name: 24225
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24225                     131.2767                      
+##################################################
+Well Name: 24226
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24226                     4.1109                        
+##################################################
+Well Name: 24227
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24227                     155.8845                      
+##################################################
+Well Name: 24239
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24239                     14427.9881                    
+##################################################
+Well Name: 24240
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24240                     0.3467                        
+##################################################
+Well Name: 24247
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24247                     1.5248                        
+##################################################
+Well Name: 24249
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24249                     0.3736                        
+##################################################
+Well Name: 24252
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24252                     4.3127                        
+##################################################
+Well Name: 24253
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24253                     0.6449                        
+##################################################
+Well Name: 24256
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24256                     1.7312                        
+##################################################
+Well Name: 24265
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24265                     2.4529                        
+##################################################
+Well Name: 24266
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24266                     50.3185                       
+##################################################
+Well Name: 24274
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24274                     1230.5148                     
+##################################################
+Well Name: 24279
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24279                     142.8096                      
+##################################################
+Well Name: 24283
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24283                     288.3548                      
+##################################################
+Well Name: 24285
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24285                     0.0013                        
+##################################################
+Well Name: 24286
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24286                     0.0017                        
+##################################################
+Well Name: 24291
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24291                     418.5222                      
+##################################################
+Well Name: 24293
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24293                     66.8262                       
+##################################################
+Well Name: 24294
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24294                     0.0013                        
+##################################################
+Well Name: 24302
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24302                     0.0000                        
+##################################################
+Well Name: 24305
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24305                     0.0000                        
+##################################################
+Well Name: 24307
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24307                     33.8592                       
+##################################################
+Well Name: 24311
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24311                     138.4203                      
+##################################################
+Well Name: 24317
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24317                     13.3886                       
+##################################################
+Well Name: 24323
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:24323                     14017.1518                    
+##################################################
+Well Name: 58403
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58403                     42.6355                       
+##################################################
+Well Name: 58405
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58405                     25476.0509                    
+##################################################
+Well Name: 58406
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58406                     456.1469                      
+##################################################
+Well Name: 58407
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58407                     544.4280                      
+##################################################
+Well Name: 58410
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58410                     157.4306                      
+##################################################
+Well Name: 58411
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58411                     12.1971                       
+##################################################
+Well Name: 58414
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58414                     4.2443                        
+##################################################
+Well Name: 58416
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58416                     1.1535                        
+##################################################
+Well Name: 58424
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58424                     2.5258                        
+##################################################
+Well Name: 58433
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58433                     196.2912                      
+##################################################
+Well Name: 58434
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:58434                     0.0170                        
+##################################################
+Well Name: 67673
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:67673                     21.3877                       
+##################################################
+Well Name: 67895
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:67895                     0.0001                        
+##################################################
+Well Name: 68008
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68008                     64.3144                       
+##################################################
+Well Name: 68216
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68216                     0.0000                        
+##################################################
+Well Name: 68218
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68218                     0.0000                        
+##################################################
+Well Name: 68219
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68219                     0.0000                        
+##################################################
+Well Name: 68220
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68220                     0.0000                        
+##################################################
+Well Name: 68221
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68221                     0.0000                        
+##################################################
+Well Name: 68294
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68294                     0.0000                        
+##################################################
+Well Name: 68475
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68475                     462.5382                      
+##################################################
+Well Name: 68529
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68529                     23673.9226                    
+##################################################
+Well Name: 68693
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68693                     0.0212                        
+##################################################
+Well Name: 68695
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68695                     0.2815                        
+##################################################
+Well Name: 68872
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68872                     2.3351                        
+##################################################
+Well Name: 68917
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68917                     0.0139                        
+##################################################
+Well Name: 68925
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68925                     7.8559                        
+##################################################
+Well Name: 68926
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:68926                     53.8563                       
+##################################################
+Well Name: 69049
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69049                     3373.9679                     
+##################################################
+Well Name: 69065
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69065                     13.1881                       
+##################################################
+Well Name: 69282
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69282                     941.5325                      
+##################################################
+Well Name: 69288
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69288                     0.0002                        
+##################################################
+Well Name: 69289
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69289                     0.0010                        
+##################################################
+Well Name: 69480
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69480                     0.1730                        
+##################################################
+Well Name: 69508
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69508                     0.0000                        
+##################################################
+Well Name: 69576
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69576                     0.0083                        
+##################################################
+Well Name: 69635
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69635                     0.0002                        
+##################################################
+Well Name: 69636
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69636                     0.0000                        
+##################################################
+Well Name: 69638
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69638                     0.0000                        
+##################################################
+Well Name: 69669
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69669                     0.0000                        
+##################################################
+Well Name: 69970
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69970                     3098.6434                     
+##################################################
+Well Name: 69990
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:69990                     8.0141                        
+##################################################
+Well Name: 70119
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70119                     2910.9491                     
+##################################################
+Well Name: 70120
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70120                     3112.0816                     
+##################################################
+Well Name: 70186
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70186                     2559.3785                     
+##################################################
+Well Name: 70191
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70191                     0.0167                        
+##################################################
+Well Name: 70263
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70263                     0.0000                        
+##################################################
+Well Name: 70517
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70517                     0.0000                        
+##################################################
+Well Name: 70519
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70519                     0.0000                        
+##################################################
+Well Name: 70520
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70520                     0.0000                        
+##################################################
+Well Name: 70548
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70548                     0.0000                        
+##################################################
+Well Name: 70881
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70881                     288.0211                      
+##################################################
+Well Name: 70961
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70961                     0.0214                        
+##################################################
+Well Name: 70974
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70974                     0.0040                        
+##################################################
+Well Name: 70975
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:70975                     0.0007                        
+##################################################
+Well Name: 71044
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71044                     1803.3926                     
+##################################################
+Well Name: 71062
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71062                     1.3147                        
+##################################################
+Well Name: 71063
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71063                     33.8977                       
+##################################################
+Well Name: 71109
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71109                     1216.6841                     
+##################################################
+Well Name: 71110
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71110                     796.5682                      
+##################################################
+Well Name: 71117
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71117                     0.0071                        
+##################################################
+Well Name: 71156
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71156                     0.2943                        
+##################################################
+Well Name: 71199
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71199                     0.1014                        
+##################################################
+Well Name: 71495
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71495                     24.8774                       
+##################################################
+Well Name: 71935
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71935                     47.8689                       
+##################################################
+Well Name: 71998
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:71998                     0.0001                        
+##################################################
+Well Name: 72082
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72082                     10.2444                       
+##################################################
+Well Name: 72094
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72094                     0.5603                        
+##################################################
+Well Name: 72095
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72095                     0.4585                        
+##################################################
+Well Name: 72269
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72269                     49.0832                       
+##################################################
+Well Name: 72301
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72301                     0.0130                        
+##################################################
+Well Name: 72304
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72304                     0.0947                        
+##################################################
+Well Name: 72421
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72421                     0.0000                        
+##################################################
+Well Name: 72422
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72422                     0.0000                        
+##################################################
+Well Name: 72436
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72436                     0.0237                        
+##################################################
+Well Name: 72437
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72437                     0.2517                        
+##################################################
+Well Name: 72607
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72607                     32.1417                       
+##################################################
+Well Name: 72610
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72610                     194.8803                      
+##################################################
+Well Name: 72713
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72713                     36.8233                       
+##################################################
+Well Name: 72756
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72756                     3.0096                        
+##################################################
+Well Name: 72983
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:72983                     0.0098                        
+##################################################
+Well Name: 73153
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73153                     0.0496                        
+##################################################
+Well Name: 73262
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73262                     0.0000                        
+##################################################
+Well Name: 73280
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73280                     0.6100                        
+##################################################
+Well Name: 73281
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73281                     67.3386                       
+##################################################
+Well Name: 73372
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73372                     0.0078                        
+##################################################
+Well Name: 73440
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73440                     0.0752                        
+##################################################
+Well Name: 73481
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73481                     17.9437                       
+##################################################
+Well Name: 73715
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73715                     527.4055                      
+##################################################
+Well Name: 73737
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73737                     0.0000                        
+##################################################
+Well Name: 73761
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73761                     1.4923                        
+##################################################
+Well Name: 73762
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73762                     583.8822                      
+##################################################
+Well Name: 73906
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73906                     0.0021                        
+##################################################
+Well Name: 73940
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73940                     0.0006                        
+##################################################
+Well Name: 73942
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:73942                     0.0606                        
+##################################################
+Well Name: 74131
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:74131                     0.0003                        
+##################################################
+Well Name: 74280
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:74280                     0.0000                        
+##################################################
+Well Name: 84404
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:84404                     9.2864                        
+##################################################
+Well Name: 84409
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:84409                     72.0836                       
+##################################################
+Well Name: 84411
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:84411                     967.8116                      
+##################################################
+Well Name: 91103
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:91103                     0.0011                        
+##################################################
+Well Name: 91173
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:91173                     0.5963                        
+##################################################
+Well Name: 91808
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:91808                     0.0000                        
+##################################################
+Well Name: 91996
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:91996                     0.0000                        
+##################################################
+Well Name: 91997
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:91997                     0.0005                        
+##################################################
+Well Name: 92099
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92099                     0.0205                        
+##################################################
+Well Name: 92184
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92184                     2.9922                        
+##################################################
+Well Name: 92299
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92299                     0.0000                        
+##################################################
+Well Name: 92696
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92696                     0.0000                        
+##################################################
+Well Name: 92714
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92714                     0.0008                        
+##################################################
+Well Name: 92724
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92724                     0.0000                        
+##################################################
+Well Name: 92743
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92743                     0.0000                        
+##################################################
+Well Name: 92808
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92808                     0.0021                        
+##################################################
+Well Name: 92885
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92885                     2.3245                        
+##################################################
+Well Name: 92981
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:92981                     0.0002                        
+##################################################
+Well Name: 93142
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93142                     49.8917                       
+##################################################
+Well Name: 93143
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93143                     4.7779                        
+##################################################
+Well Name: 93349
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93349                     3.6952                        
+##################################################
+Well Name: 93422
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93422                     0.0000                        
+##################################################
+Well Name: 93423
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93423                     0.0000                        
+##################################################
+Well Name: 93424
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93424                     0.0000                        
+##################################################
+Well Name: 93469
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93469                     569.0061                      
+##################################################
+Well Name: 93832
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:93832                     0.0000                        
+##################################################
+Well Name: 94302
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:94302                     3200.2875                     
+##################################################
+Well Name: 94988
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:94988                     0.0021                        
+##################################################
+Well Name: 95068
+Well status: existing
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:95068                     0.6259                        
+
+
+
+COMBINED PROPOSED WELL REPORTS
+##################################################
+             **Drawdown**
+Response                      Drawdown(ft)                  
+LakeEmily                     0.0000                        
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:418                       0.0067                        
+
+
+COMBINED EXISTING WELL REPORTS
+##################################################
+             **Drawdown**
+Response                      Drawdown(ft)                  
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:466                       0.3831                        
+LPR:467                       0.2875                        
+LPR:490                       0.0000                        
+LPR:509                       0.0000                        
+LPR:602                       0.0000                        
+LPR:603                       0.0000                        
+LPR:798                       0.0000                        
+LPR:807                       0.0004                        
+LPR:850                       0.0000                        
+LPR:862                       0.0001                        
+LPR:1013                      0.0000                        
+LPR:1302                      0.0000                        
+LPR:1323                      0.0001                        
+LPR:1486                      0.0077                        
+LPR:1584                      0.0402                        
+LPR:1589                      0.0000                        
+LPR:1643                      0.0001                        
+LPR:1683                      0.0000                        
+LPR:1860                      0.0001                        
+LPR:2544                      0.0005                        
+LPR:2750                      0.0000                        
+LPR:2886                      0.0494                        
+LPR:3473                      0.0000                        
+LPR:3949                      0.0023                        
+LPR:4171                      0.0000                        
+LPR:23610                     0.0004                        
+LPR:23611                     0.0307                        
+LPR:23618                     0.0038                        
+LPR:23620                     0.0000                        
+LPR:23627                     0.3452                        
+LPR:23629                     0.0003                        
+LPR:23630                     0.0002                        
+LPR:23631                     0.0003                        
+LPR:23635                     0.0000                        
+LPR:23637                     0.0000                        
+LPR:23638                     0.0613                        
+LPR:23639                     0.0066                        
+LPR:23645                     0.0789                        
+LPR:23646                     0.0687                        
+LPR:23648                     0.0000                        
+LPR:23653                     0.3265                        
+LPR:23695                     0.0000                        
+LPR:23697                     0.0000                        
+LPR:23698                     0.0000                        
+LPR:23699                     0.0000                        
+LPR:23700                     0.0000                        
+LPR:23709                     0.0000                        
+LPR:23710                     0.0000                        
+LPR:23715                     0.0002                        
+LPR:23716                     0.0001                        
+LPR:23720                     0.0085                        
+LPR:23721                     0.0069                        
+LPR:23722                     0.0004                        
+LPR:23723                     0.0009                        
+LPR:23726                     0.0000                        
+LPR:23727                     0.0000                        
+LPR:23728                     0.0002                        
+LPR:23729                     0.0004                        
+LPR:23751                     0.0000                        
+LPR:23752                     0.0366                        
+LPR:23753                     0.0103                        
+LPR:23754                     0.0000                        
+LPR:23755                     0.3922                        
+LPR:23756                     0.0000                        
+LPR:23757                     0.0000                        
+LPR:23758                     0.0002                        
+LPR:23770                     0.1132                        
+LPR:23776                     0.0001                        
+LPR:23778                     0.0001                        
+LPR:23781                     0.0424                        
+LPR:23790                     0.0004                        
+LPR:23791                     0.0004                        
+LPR:23794                     0.0523                        
+LPR:23795                     0.0000                        
+LPR:23798                     0.0023                        
+LPR:23800                     0.0235                        
+LPR:23807                     0.0000                        
+LPR:23816                     0.0959                        
+LPR:23818                     0.0000                        
+LPR:23820                     0.0000                        
+LPR:23823                     0.0000                        
+LPR:23836                     0.2111                        
+LPR:23837                     0.0380                        
+LPR:23846                     0.0002                        
+LPR:23847                     0.0114                        
+LPR:23848                     0.0076                        
+LPR:23851                     0.0301                        
+LPR:23864                     0.0014                        
+LPR:23865                     0.0009                        
+LPR:23866                     0.0000                        
+LPR:23867                     0.0000                        
+LPR:23868                     0.0000                        
+LPR:23869                     0.0000                        
+LPR:23870                     0.0000                        
+LPR:23876                     0.1170                        
+LPR:23881                     0.0078                        
+LPR:23883                     0.0000                        
+LPR:23886                     0.0000                        
+LPR:23888                     0.0188                        
+LPR:23889                     0.0325                        
+LPR:23890                     0.0000                        
+LPR:23895                     0.0006                        
+LPR:23898                     0.0000                        
+LPR:23908                     0.0075                        
+LPR:23909                     0.0045                        
+LPR:23910                     0.0002                        
+LPR:23913                     0.0000                        
+LPR:23915                     0.0000                        
+LPR:23919                     0.0398                        
+LPR:23926                     0.0000                        
+LPR:23928                     0.0037                        
+LPR:23929                     0.0017                        
+LPR:23930                     0.0030                        
+LPR:23934                     0.3981                        
+LPR:23936                     0.0319                        
+LPR:23937                     0.0083                        
+LPR:23939                     0.0652                        
+LPR:23942                     0.0002                        
+LPR:23944                     0.0000                        
+LPR:23948                     0.0032                        
+LPR:23956                     0.0003                        
+LPR:23961                     0.0000                        
+LPR:23962                     0.0001                        
+LPR:23963                     0.0000                        
+LPR:23966                     0.0000                        
+LPR:23967                     0.0001                        
+LPR:23972                     0.0004                        
+LPR:23977                     0.0035                        
+LPR:23978                     0.0000                        
+LPR:23979                     0.0000                        
+LPR:23980                     0.0000                        
+LPR:23981                     0.0092                        
+LPR:23983                     0.0003                        
+LPR:23984                     0.0023                        
+LPR:23985                     0.0099                        
+LPR:23987                     0.0006                        
+LPR:23998                     0.0000                        
+LPR:24003                     0.0010                        
+LPR:24005                     0.0018                        
+LPR:24010                     0.0003                        
+LPR:24011                     0.0193                        
+LPR:24012                     0.0000                        
+LPR:24016                     0.0001                        
+LPR:24024                     0.0000                        
+LPR:24030                     0.0002                        
+LPR:24033                     0.0001                        
+LPR:24036                     0.0000                        
+LPR:24037                     0.0000                        
+LPR:24042                     0.0000                        
+LPR:24043                     0.0000                        
+LPR:24045                     0.0301                        
+LPR:24047                     0.0002                        
+LPR:24049                     0.0044                        
+LPR:24059                     0.0000                        
+LPR:24063                     0.0005                        
+LPR:24066                     0.0000                        
+LPR:24080                     0.0000                        
+LPR:24091                     0.0000                        
+LPR:24093                     0.0000                        
+LPR:24110                     0.0000                        
+LPR:24120                     0.0000                        
+LPR:24121                     0.0012                        
+LPR:24125                     0.0095                        
+LPR:24130                     0.0000                        
+LPR:24135                     0.0001                        
+LPR:24137                     0.0245                        
+LPR:24165                     0.0007                        
+LPR:24166                     0.0004                        
+LPR:24169                     0.0000                        
+LPR:24172                     0.0008                        
+LPR:24195                     0.0000                        
+LPR:24197                     0.0188                        
+LPR:24203                     0.0618                        
+LPR:24216                     0.0000                        
+LPR:24225                     0.0015                        
+LPR:24226                     0.0000                        
+LPR:24227                     0.0018                        
+LPR:24239                     0.1670                        
+LPR:24240                     0.0000                        
+LPR:24247                     0.0000                        
+LPR:24249                     0.0000                        
+LPR:24252                     0.0000                        
+LPR:24253                     0.0000                        
+LPR:24256                     0.0000                        
+LPR:24265                     0.0000                        
+LPR:24266                     0.0006                        
+LPR:24274                     0.0142                        
+LPR:24279                     0.0017                        
+LPR:24283                     0.0033                        
+LPR:24285                     0.0000                        
+LPR:24286                     0.0000                        
+LPR:24291                     0.0048                        
+LPR:24293                     0.0008                        
+LPR:24294                     0.0000                        
+LPR:24302                     0.0000                        
+LPR:24305                     0.0000                        
+LPR:24307                     0.0004                        
+LPR:24311                     0.0016                        
+LPR:24317                     0.0002                        
+LPR:24323                     0.1622                        
+LPR:58403                     0.0005                        
+LPR:58405                     0.2949                        
+LPR:58406                     0.0053                        
+LPR:58407                     0.0063                        
+LPR:58410                     0.0018                        
+LPR:58411                     0.0001                        
+LPR:58414                     0.0000                        
+LPR:58416                     0.0000                        
+LPR:58424                     0.0000                        
+LPR:58433                     0.0023                        
+LPR:58434                     0.0000                        
+LPR:67673                     0.0002                        
+LPR:67895                     0.0000                        
+LPR:68008                     0.0007                        
+LPR:68216                     0.0000                        
+LPR:68218                     0.0000                        
+LPR:68219                     0.0000                        
+LPR:68220                     0.0000                        
+LPR:68221                     0.0000                        
+LPR:68294                     0.0000                        
+LPR:68475                     0.0054                        
+LPR:68529                     0.2740                        
+LPR:68693                     0.0000                        
+LPR:68695                     0.0000                        
+LPR:68872                     0.0000                        
+LPR:68917                     0.0000                        
+LPR:68925                     0.0001                        
+LPR:68926                     0.0006                        
+LPR:69049                     0.0391                        
+LPR:69065                     0.0002                        
+LPR:69282                     0.0109                        
+LPR:69288                     0.0000                        
+LPR:69289                     0.0000                        
+LPR:69480                     0.0000                        
+LPR:69508                     0.0000                        
+LPR:69576                     0.0000                        
+LPR:69635                     0.0000                        
+LPR:69636                     0.0000                        
+LPR:69638                     0.0000                        
+LPR:69669                     0.0000                        
+LPR:69970                     0.0359                        
+LPR:69990                     0.0001                        
+LPR:70119                     0.0337                        
+LPR:70120                     0.0360                        
+LPR:70186                     0.0296                        
+LPR:70191                     0.0000                        
+LPR:70263                     0.0000                        
+LPR:70517                     0.0000                        
+LPR:70519                     0.0000                        
+LPR:70520                     0.0000                        
+LPR:70548                     0.0000                        
+LPR:70881                     0.0033                        
+LPR:70961                     0.0000                        
+LPR:70974                     0.0000                        
+LPR:70975                     0.0000                        
+LPR:71044                     0.0209                        
+LPR:71062                     0.0000                        
+LPR:71063                     0.0004                        
+LPR:71109                     0.0141                        
+LPR:71110                     0.0092                        
+LPR:71117                     0.0000                        
+LPR:71156                     0.0000                        
+LPR:71199                     0.0000                        
+LPR:71495                     0.0003                        
+LPR:71935                     0.0006                        
+LPR:71998                     0.0000                        
+LPR:72082                     0.0001                        
+LPR:72094                     0.0000                        
+LPR:72095                     0.0000                        
+LPR:72269                     0.0006                        
+LPR:72301                     0.0000                        
+LPR:72304                     0.0000                        
+LPR:72421                     0.0000                        
+LPR:72422                     0.0000                        
+LPR:72436                     0.0000                        
+LPR:72437                     0.0000                        
+LPR:72607                     0.0004                        
+LPR:72610                     0.0023                        
+LPR:72713                     0.0004                        
+LPR:72756                     0.0000                        
+LPR:72983                     0.0000                        
+LPR:73153                     0.0000                        
+LPR:73262                     0.0000                        
+LPR:73280                     0.0000                        
+LPR:73281                     0.0008                        
+LPR:73372                     0.0000                        
+LPR:73440                     0.0000                        
+LPR:73481                     0.0002                        
+LPR:73715                     0.0061                        
+LPR:73737                     0.0000                        
+LPR:73761                     0.0000                        
+LPR:73762                     0.0068                        
+LPR:73906                     0.0000                        
+LPR:73940                     0.0000                        
+LPR:73942                     0.0000                        
+LPR:74131                     0.0000                        
+LPR:74280                     0.0000                        
+LPR:84404                     0.0001                        
+LPR:84409                     0.0008                        
+LPR:84411                     0.0112                        
+LPR:91103                     0.0000                        
+LPR:91173                     0.0000                        
+LPR:91808                     0.0000                        
+LPR:91996                     0.0000                        
+LPR:91997                     0.0000                        
+LPR:92099                     0.0000                        
+LPR:92184                     0.0000                        
+LPR:92299                     0.0000                        
+LPR:92696                     0.0000                        
+LPR:92714                     0.0000                        
+LPR:92724                     0.0000                        
+LPR:92743                     0.0000                        
+LPR:92808                     0.0000                        
+LPR:92885                     0.0000                        
+LPR:92981                     0.0000                        
+LPR:93142                     0.0006                        
+LPR:93143                     0.0001                        
+LPR:93349                     0.0000                        
+LPR:93422                     0.0000                        
+LPR:93423                     0.0000                        
+LPR:93424                     0.0000                        
+LPR:93469                     0.0066                        
+LPR:93832                     0.0000                        
+LPR:94302                     0.0370                        
+LPR:94988                     0.0000                        
+LPR:95068                     0.0000                        
+
+
+TOTAL COMBINED WELL REPORTS
+##################################################
+             **Drawdown**
+Response                      Drawdown(ft)                  
+LakeEmily                     0.0000                        
+          **Maximum Depletion**
+Response                      Depletion(cfs)                
+LPR:466                       0.3831                        
+LPR:467                       0.2875                        
+LPR:490                       0.0000                        
+LPR:509                       0.0000                        
+LPR:602                       0.0000                        
+LPR:603                       0.0000                        
+LPR:798                       0.0000                        
+LPR:807                       0.0004                        
+LPR:850                       0.0000                        
+LPR:862                       0.0001                        
+LPR:1013                      0.0000                        
+LPR:1302                      0.0000                        
+LPR:1323                      0.0001                        
+LPR:1486                      0.0077                        
+LPR:1584                      0.0402                        
+LPR:1589                      0.0000                        
+LPR:1643                      0.0001                        
+LPR:1683                      0.0000                        
+LPR:1860                      0.0001                        
+LPR:2544                      0.0005                        
+LPR:2750                      0.0000                        
+LPR:2886                      0.0494                        
+LPR:3473                      0.0000                        
+LPR:3949                      0.0023                        
+LPR:4171                      0.0000                        
+LPR:23610                     0.0004                        
+LPR:23611                     0.0307                        
+LPR:23618                     0.0038                        
+LPR:23620                     0.0000                        
+LPR:23627                     0.3452                        
+LPR:23629                     0.0003                        
+LPR:23630                     0.0002                        
+LPR:23631                     0.0003                        
+LPR:23635                     0.0000                        
+LPR:23637                     0.0000                        
+LPR:23638                     0.0613                        
+LPR:23639                     0.0066                        
+LPR:23645                     0.0789                        
+LPR:23646                     0.0687                        
+LPR:23648                     0.0000                        
+LPR:23653                     0.3265                        
+LPR:23695                     0.0000                        
+LPR:23697                     0.0000                        
+LPR:23698                     0.0000                        
+LPR:23699                     0.0000                        
+LPR:23700                     0.0000                        
+LPR:23709                     0.0000                        
+LPR:23710                     0.0000                        
+LPR:23715                     0.0002                        
+LPR:23716                     0.0001                        
+LPR:23720                     0.0085                        
+LPR:23721                     0.0069                        
+LPR:23722                     0.0004                        
+LPR:23723                     0.0009                        
+LPR:23726                     0.0000                        
+LPR:23727                     0.0000                        
+LPR:23728                     0.0002                        
+LPR:23729                     0.0004                        
+LPR:23751                     0.0000                        
+LPR:23752                     0.0366                        
+LPR:23753                     0.0103                        
+LPR:23754                     0.0000                        
+LPR:23755                     0.3922                        
+LPR:23756                     0.0000                        
+LPR:23757                     0.0000                        
+LPR:23758                     0.0002                        
+LPR:23770                     0.1132                        
+LPR:23776                     0.0001                        
+LPR:23778                     0.0001                        
+LPR:23781                     0.0424                        
+LPR:23790                     0.0004                        
+LPR:23791                     0.0004                        
+LPR:23794                     0.0523                        
+LPR:23795                     0.0000                        
+LPR:23798                     0.0023                        
+LPR:23800                     0.0235                        
+LPR:23807                     0.0000                        
+LPR:23816                     0.0959                        
+LPR:23818                     0.0000                        
+LPR:23820                     0.0000                        
+LPR:23823                     0.0000                        
+LPR:23836                     0.2111                        
+LPR:23837                     0.0380                        
+LPR:23846                     0.0002                        
+LPR:23847                     0.0114                        
+LPR:23848                     0.0076                        
+LPR:23851                     0.0301                        
+LPR:23864                     0.0014                        
+LPR:23865                     0.0009                        
+LPR:23866                     0.0000                        
+LPR:23867                     0.0000                        
+LPR:23868                     0.0000                        
+LPR:23869                     0.0000                        
+LPR:23870                     0.0000                        
+LPR:23876                     0.1170                        
+LPR:23881                     0.0078                        
+LPR:23883                     0.0000                        
+LPR:23886                     0.0000                        
+LPR:23888                     0.0188                        
+LPR:23889                     0.0325                        
+LPR:23890                     0.0000                        
+LPR:23895                     0.0006                        
+LPR:23898                     0.0000                        
+LPR:23908                     0.0075                        
+LPR:23909                     0.0045                        
+LPR:23910                     0.0002                        
+LPR:23913                     0.0000                        
+LPR:23915                     0.0000                        
+LPR:23919                     0.0398                        
+LPR:23926                     0.0000                        
+LPR:23928                     0.0037                        
+LPR:23929                     0.0017                        
+LPR:23930                     0.0030                        
+LPR:23934                     0.3981                        
+LPR:23936                     0.0319                        
+LPR:23937                     0.0083                        
+LPR:23939                     0.0652                        
+LPR:23942                     0.0002                        
+LPR:23944                     0.0000                        
+LPR:23948                     0.0032                        
+LPR:23956                     0.0003                        
+LPR:23961                     0.0000                        
+LPR:23962                     0.0001                        
+LPR:23963                     0.0000                        
+LPR:23966                     0.0000                        
+LPR:23967                     0.0001                        
+LPR:23972                     0.0004                        
+LPR:23977                     0.0035                        
+LPR:23978                     0.0000                        
+LPR:23979                     0.0000                        
+LPR:23980                     0.0000                        
+LPR:23981                     0.0092                        
+LPR:23983                     0.0003                        
+LPR:23984                     0.0023                        
+LPR:23985                     0.0099                        
+LPR:23987                     0.0006                        
+LPR:23998                     0.0000                        
+LPR:24003                     0.0010                        
+LPR:24005                     0.0018                        
+LPR:24010                     0.0003                        
+LPR:24011                     0.0193                        
+LPR:24012                     0.0000                        
+LPR:24016                     0.0001                        
+LPR:24024                     0.0000                        
+LPR:24030                     0.0002                        
+LPR:24033                     0.0001                        
+LPR:24036                     0.0000                        
+LPR:24037                     0.0000                        
+LPR:24042                     0.0000                        
+LPR:24043                     0.0000                        
+LPR:24045                     0.0301                        
+LPR:24047                     0.0002                        
+LPR:24049                     0.0044                        
+LPR:24059                     0.0000                        
+LPR:24063                     0.0005                        
+LPR:24066                     0.0000                        
+LPR:24080                     0.0000                        
+LPR:24091                     0.0000                        
+LPR:24093                     0.0000                        
+LPR:24110                     0.0000                        
+LPR:24120                     0.0000                        
+LPR:24121                     0.0012                        
+LPR:24125                     0.0095                        
+LPR:24130                     0.0000                        
+LPR:24135                     0.0001                        
+LPR:24137                     0.0245                        
+LPR:24165                     0.0007                        
+LPR:24166                     0.0004                        
+LPR:24169                     0.0000                        
+LPR:24172                     0.0008                        
+LPR:24195                     0.0000                        
+LPR:24197                     0.0188                        
+LPR:24203                     0.0618                        
+LPR:24216                     0.0000                        
+LPR:24225                     0.0015                        
+LPR:24226                     0.0000                        
+LPR:24227                     0.0018                        
+LPR:24239                     0.1670                        
+LPR:24240                     0.0000                        
+LPR:24247                     0.0000                        
+LPR:24249                     0.0000                        
+LPR:24252                     0.0000                        
+LPR:24253                     0.0000                        
+LPR:24256                     0.0000                        
+LPR:24265                     0.0000                        
+LPR:24266                     0.0006                        
+LPR:24274                     0.0142                        
+LPR:24279                     0.0017                        
+LPR:24283                     0.0033                        
+LPR:24285                     0.0000                        
+LPR:24286                     0.0000                        
+LPR:24291                     0.0048                        
+LPR:24293                     0.0008                        
+LPR:24294                     0.0000                        
+LPR:24302                     0.0000                        
+LPR:24305                     0.0000                        
+LPR:24307                     0.0004                        
+LPR:24311                     0.0016                        
+LPR:24317                     0.0002                        
+LPR:24323                     0.1622                        
+LPR:58403                     0.0005                        
+LPR:58405                     0.2949                        
+LPR:58406                     0.0053                        
+LPR:58407                     0.0063                        
+LPR:58410                     0.0018                        
+LPR:58411                     0.0001                        
+LPR:58414                     0.0000                        
+LPR:58416                     0.0000                        
+LPR:58424                     0.0000                        
+LPR:58433                     0.0023                        
+LPR:58434                     0.0000                        
+LPR:67673                     0.0002                        
+LPR:67895                     0.0000                        
+LPR:68008                     0.0007                        
+LPR:68216                     0.0000                        
+LPR:68218                     0.0000                        
+LPR:68219                     0.0000                        
+LPR:68220                     0.0000                        
+LPR:68221                     0.0000                        
+LPR:68294                     0.0000                        
+LPR:68475                     0.0054                        
+LPR:68529                     0.2740                        
+LPR:68693                     0.0000                        
+LPR:68695                     0.0000                        
+LPR:68872                     0.0000                        
+LPR:68917                     0.0000                        
+LPR:68925                     0.0001                        
+LPR:68926                     0.0006                        
+LPR:69049                     0.0391                        
+LPR:69065                     0.0002                        
+LPR:69282                     0.0109                        
+LPR:69288                     0.0000                        
+LPR:69289                     0.0000                        
+LPR:69480                     0.0000                        
+LPR:69508                     0.0000                        
+LPR:69576                     0.0000                        
+LPR:69635                     0.0000                        
+LPR:69636                     0.0000                        
+LPR:69638                     0.0000                        
+LPR:69669                     0.0000                        
+LPR:69970                     0.0359                        
+LPR:69990                     0.0001                        
+LPR:70119                     0.0337                        
+LPR:70120                     0.0360                        
+LPR:70186                     0.0296                        
+LPR:70191                     0.0000                        
+LPR:70263                     0.0000                        
+LPR:70517                     0.0000                        
+LPR:70519                     0.0000                        
+LPR:70520                     0.0000                        
+LPR:70548                     0.0000                        
+LPR:70881                     0.0033                        
+LPR:70961                     0.0000                        
+LPR:70974                     0.0000                        
+LPR:70975                     0.0000                        
+LPR:71044                     0.0209                        
+LPR:71062                     0.0000                        
+LPR:71063                     0.0004                        
+LPR:71109                     0.0141                        
+LPR:71110                     0.0092                        
+LPR:71117                     0.0000                        
+LPR:71156                     0.0000                        
+LPR:71199                     0.0000                        
+LPR:71495                     0.0003                        
+LPR:71935                     0.0006                        
+LPR:71998                     0.0000                        
+LPR:72082                     0.0001                        
+LPR:72094                     0.0000                        
+LPR:72095                     0.0000                        
+LPR:72269                     0.0006                        
+LPR:72301                     0.0000                        
+LPR:72304                     0.0000                        
+LPR:72421                     0.0000                        
+LPR:72422                     0.0000                        
+LPR:72436                     0.0000                        
+LPR:72437                     0.0000                        
+LPR:72607                     0.0004                        
+LPR:72610                     0.0023                        
+LPR:72713                     0.0004                        
+LPR:72756                     0.0000                        
+LPR:72983                     0.0000                        
+LPR:73153                     0.0000                        
+LPR:73262                     0.0000                        
+LPR:73280                     0.0000                        
+LPR:73281                     0.0008                        
+LPR:73372                     0.0000                        
+LPR:73440                     0.0000                        
+LPR:73481                     0.0002                        
+LPR:73715                     0.0061                        
+LPR:73737                     0.0000                        
+LPR:73761                     0.0000                        
+LPR:73762                     0.0068                        
+LPR:73906                     0.0000                        
+LPR:73940                     0.0000                        
+LPR:73942                     0.0000                        
+LPR:74131                     0.0000                        
+LPR:74280                     0.0000                        
+LPR:84404                     0.0001                        
+LPR:84409                     0.0008                        
+LPR:84411                     0.0112                        
+LPR:91103                     0.0000                        
+LPR:91173                     0.0000                        
+LPR:91808                     0.0000                        
+LPR:91996                     0.0000                        
+LPR:91997                     0.0000                        
+LPR:92099                     0.0000                        
+LPR:92184                     0.0000                        
+LPR:92299                     0.0000                        
+LPR:92696                     0.0000                        
+LPR:92714                     0.0000                        
+LPR:92724                     0.0000                        
+LPR:92743                     0.0000                        
+LPR:92808                     0.0000                        
+LPR:92885                     0.0000                        
+LPR:92981                     0.0000                        
+LPR:93142                     0.0006                        
+LPR:93143                     0.0001                        
+LPR:93349                     0.0000                        
+LPR:93422                     0.0000                        
+LPR:93423                     0.0000                        
+LPR:93424                     0.0000                        
+LPR:93469                     0.0066                        
+LPR:93832                     0.0000                        
+LPR:94302                     0.0370                        
+LPR:94988                     0.0000                        
+LPR:95068                     0.0000                        
+LPR:418                       0.0067                        

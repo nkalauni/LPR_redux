@@ -1,0 +1,26 @@
+pcf version=2
+* control data keyword
+pestmode                                 estimation
+noptmax                                50
+svdmode                                 1
+maxsing                          10000000
+eigthresh                           1e-06
+eigwrite                                1
+mou_dv_population_file         initial_dvpop.csv
+mou_objectives                 obj_well,lpr:total_combined:bdpl
+mou_population_size            172
+mou_save_population_every      1
+* parameter groups external
+depletion_q.pargp_data.csv
+* parameter data external
+depletion_q.par_data.csv
+* observation data external
+depletion_q.obs_data.csv
+* model command line
+python run_pycap_standalone_opt_mou.py depletion_q
+* model input external
+depletion_q.tplfile_data.csv
+* model output external
+depletion_q.insfile_data.csv
+* prior information external
+depletion_q.pi_data.csv

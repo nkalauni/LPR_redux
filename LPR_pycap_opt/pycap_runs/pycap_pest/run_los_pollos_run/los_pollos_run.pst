@@ -1,0 +1,26 @@
+pcf version=2
+* control data keyword
+pestmode                                 estimation
+noptmax                                50
+svdmode                                 1
+maxsing                          10000000
+eigthresh                           1e-06
+eigwrite                                1
+mou_dv_population_file         initial_dvpop.csv
+mou_objectives                 obj_well,lpr:total_combined:bdpl
+mou_population_size            38
+mou_save_population_every      1
+* parameter groups external
+los_pollos_run.pargp_data.csv
+* parameter data external
+los_pollos_run.par_data.csv
+* observation data external
+los_pollos_run.obs_data.csv
+* model command line
+python run_pycap_standalone_opt_mou.py los_pollos_run
+* model input external
+los_pollos_run.tplfile_data.csv
+* model output external
+los_pollos_run.insfile_data.csv
+* prior information external
+los_pollos_run.pi_data.csv

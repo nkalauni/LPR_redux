@@ -1,0 +1,7 @@
+depletion_potential_threshold: 0.2
+objectives: depletion_q
+pump_lbound_fraction: 0.7
+pump_ubound_fraction: 1.0
+ref_q: 8.6
+run_path: ../pycap_runs/pycap_pest/run_los_pollos_run
+scenario_name: los_pollos_run
