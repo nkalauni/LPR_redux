@@ -19,6 +19,7 @@ from shapely.geometry import MultiPoint
 import matplotlib
 import matplotlib.colors as mcolors
 
+GPM2CFS = 0.002228
 
 #######################################################################################
 # function to create all files necessary to run Multiple Objective Optimization (MOU) #
@@ -366,6 +367,8 @@ def postprocess_MOU(run_name, run_path):
         ):
         if ccol in pareto_df.columns:
             pareto_df = pareto_df.rename(columns={ccol:newcol})
+            if 'total pumping' in newcol.lower():
+                pareto_df[newcol] *=  GPM2CFS #need to convert from GPM to CFS here!
     return pareto_df
 #######################################################################################################
 # function to support interactive plotting of a pareto curve highlighting evoluation over generations #
@@ -531,14 +534,23 @@ def plot_pareto_with_scenarios(pareto_df, scenarios=None):
             scenarios = [scenarios]
         scen_dict = {cscen: pd.read_csv(f'../pycap_runs/student_run/{cscen}_results.csv') 
                      for cscen in scenarios}
-        if 'receipt' in y_ax.lower():
-            y_col = 'receipts'
+        # we need to set up whether considering threshold drops or not as indicated by "receipts"
+        mounames = ['Depletion (cfs)', 'Total Pumping (cfs)', 
+            'Total Agriculture Receipts ($)',
+            'Trout Likelihood (%)']
+        if ('receipt' in x_ax.lower()) or ('receipt' in y_ax.lower()):
+            scennames = ['truncated_depletion', 'wells_total_q_ag',
+                         'receipts','fish_prob']
         else:
-            y_col = 'wells_total_q'
-        if 'trout' in x_ax.lower():
-            x_col = 'fish_prob'
-        else:
-            x_col = 'total_depletion'
+            scennames = ['total_depletion', 'wells_total_q',
+                         'receipts','fish_prob']
+        for mouname, scenname in zip(mounames, scennames):
+            if mouname in x_ax:
+                x_col = scenname
+            if mouname in y_ax:
+                y_col = scenname
+
+
         for scen,dat in scen_dict.items():
             ax.scatter(dat[x_col],dat[y_col],marker='x', c='red')
 
@@ -546,3 +558,5 @@ def plot_pareto_with_scenarios(pareto_df, scenarios=None):
     ax.set_xlabel(x_ax)
     ax.set_ylabel(y_ax)
     plt.show()
+
+    

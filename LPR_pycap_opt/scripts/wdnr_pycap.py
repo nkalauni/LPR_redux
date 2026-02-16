@@ -2,7 +2,7 @@ import pandas as pd
 import yaml
 from pycap.analysis_project import Project
 import numpy as np
-
+GPM2CFS = 0.002228
 
 def pycap_metrics(depl, well_dict, combdict, base_run_path, pycap_run_name):
     # we need some extra information
@@ -65,8 +65,8 @@ def pycap_metrics(depl, well_dict, combdict, base_run_path, pycap_run_name):
                   fishcurve.index,
                   fishcurve.values)
     retvals = pd.DataFrame(index=[pycap_run_name],
-                           data={'wells_total_q':[wells_total_q],
-                                 'wells_total_q_ag':[wells_total_q_ag],
+                           data={'wells_total_q':[wells_total_q*GPM2CFS], # convert here to CFS
+                                 'wells_total_q_ag':[wells_total_q_ag*GPM2CFS], # convert here to CFS
                                  'receipts':[total_receipts],
                                  'total_depletion':[total_depletion],
                                  'truncated_depletion':[new_depl],
