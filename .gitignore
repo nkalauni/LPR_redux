@@ -231,3 +231,10 @@ steady_state_mf6_DP/
 
 # Modflow executable
 mf6
+
+*.zip
+los_pollos*
+gredissica*
+/LPR_pycap_opt/pycap_runs/*
+*.rec
+*.rns
